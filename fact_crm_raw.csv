@@ -1,0 +1,854 @@
+﻿CRM_ID,Kreis,Branche,Rechtsform,Groessenklasse,Kontaktkanal,Anliegen_Kategorie,Status,Bearbeitungszeit_Tage,KI_Kategorie,KI_Confidence,Datenart,Basis
+CRM-00001,Stadt Erfurt,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,Webformular,Gründung,Erledigt,2.0,Gründung,0.958,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00002,Stadt Erfurt,Sonstige Wirtschaftsbereiche,Einzelunternehmen,10-49,E-Mail,Recht,Erledigt,2.0,Recht,0.844,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00003,Stadt Erfurt,Handel/Kfz,Einzelunternehmen,0-9,E-Mail,Finanzierung,Erledigt,0.9,Finanzierung,0.896,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00004,Stadt Erfurt,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,0-9,Telefon,Recht,Erledigt,2.1,Recht,0.914,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00005,Stadt Erfurt,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,E-Mail,Digitalisierung,Erledigt,2.3,Digitalisierung,0.941,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00006,Stadt Erfurt,Handel/Kfz,Einzelunternehmen,0-9,Webformular,Außenwirtschaft,Erledigt,1.6,Außenwirtschaft,0.945,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00007,Stadt Erfurt,Handel/Kfz,Einzelunternehmen,0-9,Webformular,Außenwirtschaft,Erledigt,0.7,Außenwirtschaft,0.781,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00008,Stadt Erfurt,Sonstige Wirtschaftsbereiche,Einzelunternehmen,10-49,Webformular,Finanzierung,Erledigt,2.4,Finanzierung,0.845,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00009,Stadt Erfurt,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,0-9,E-Mail,Ausbildung,Erledigt,1.6,Ausbildung,0.808,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00010,Stadt Erfurt,Finanz- und Versicherungsdienstleistungen,Einzelunternehmen,0-9,E-Mail,Gründung,Erledigt,0.3,Gründung,0.685,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00011,Stadt Erfurt,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,E-Mail,Gründung,Erledigt,0.4,Gründung,0.991,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00012,Stadt Erfurt,Handel/Kfz,Einzelunternehmen,0-9,E-Mail,Ausbildung,Erledigt,0.9,Ausbildung,0.89,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00013,Stadt Erfurt,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,Persönlich,Ausbildung,Erledigt,2.3,Ausbildung,0.968,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00014,Stadt Erfurt,Handel/Kfz,Juristische Person,0-9,E-Mail,Ausbildung,In Bearbeitung,,Ausbildung,0.684,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00015,Stadt Erfurt,Baugewerbe,Einzelunternehmen,0-9,E-Mail,Finanzierung,Erledigt,1.3,Finanzierung,0.765,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00016,Stadt Erfurt,Energie/Wasser/Abfall,Juristische Person,0-9,Telefon,Ausbildung,Erledigt,2.8,Ausbildung,0.848,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00017,Stadt Erfurt,Baugewerbe,Einzelunternehmen,0-9,E-Mail,Gründung,In Bearbeitung,,Gründung,0.961,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00018,Stadt Erfurt,Finanz- und Versicherungsdienstleistungen,Juristische Person,10-49,Persönlich,Gründung,Erledigt,3.2,Gründung,0.86,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00019,Stadt Erfurt,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Einzelunternehmen,0-9,E-Mail,Digitalisierung,Erledigt,1.2,Digitalisierung,0.937,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00020,Stadt Erfurt,Handel/Kfz,Einzelunternehmen,0-9,E-Mail,Digitalisierung,Erledigt,2.7,Digitalisierung,0.668,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00021,Stadt Erfurt,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Einzelunternehmen,0-9,E-Mail,Finanzierung,Erledigt,2.7,Finanzierung,0.879,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00022,Stadt Erfurt,Gastgewerbe,Einzelunternehmen,0-9,Persönlich,Gründung,Erledigt,1.0,Gründung,0.884,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00023,Stadt Erfurt,Handel/Kfz,Einzelunternehmen,0-9,Telefon,Digitalisierung,Erledigt,1.7,Digitalisierung,0.684,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00024,Stadt Erfurt,Handel/Kfz,Einzelunternehmen,0-9,Persönlich,Finanzierung,Erledigt,2.3,Finanzierung,0.881,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00025,Stadt Erfurt,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Einzelunternehmen,0-9,E-Mail,Recht,Erledigt,1.0,Recht,0.932,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00026,Stadt Erfurt,Sonstige Wirtschaftsbereiche,Personengesellschaft,0-9,E-Mail,Digitalisierung,Offen,,Digitalisierung,0.762,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00027,Stadt Erfurt,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,10-49,E-Mail,Gründung,Erledigt,1.5,Gründung,0.892,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00028,Stadt Erfurt,Handel/Kfz,Juristische Person,50-249,Telefon,Recht,Erledigt,2.0,Recht,0.767,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00029,Stadt Erfurt,Sonstige wirtschaftliche Dienstleistungen,Juristische Person,0-9,E-Mail,Finanzierung,Erledigt,1.9,Finanzierung,0.583,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00030,Stadt Erfurt,Sonstige Wirtschaftsbereiche,Einzelunternehmen,10-49,E-Mail,Digitalisierung,Erledigt,2.5,Digitalisierung,0.939,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00031,Stadt Erfurt,,Juristische Person,0-9,E-Mail,Gründung,Erledigt,2.8,Gründung,0.966,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00032,Stadt Erfurt,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,Webformular,Gründung,Erledigt,0.7,Gründung,0.783,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00033,Stadt Erfurt,Sonstige Wirtschaftsbereiche,Personengesellschaft,10-49,Telefon,Finanzierung,Erledigt,2.3,Finanzierung,0.915,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00034,Stadt Erfurt,Handel/Kfz,Juristische Person,0-9,Persönlich,Ausbildung,Erledigt,1.5,Ausbildung,0.789,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00035,Stadt Erfurt,Sonstige Wirtschaftsbereiche,Juristische Person,0-9,Telefon,Gründung,Erledigt,1.1,Gründung,0.944,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00036,Stadt Erfurt,Baugewerbe,Einzelunternehmen,0-9,E-Mail,Recht,In Bearbeitung,,Recht,0.751,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00037,Stadt Erfurt,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Einzelunternehmen,10-49,E-Mail,Finanzierung,Erledigt,0.7,Finanzierung,0.803,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00038,Stadt Erfurt,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,0-9,Telefon,Finanzierung,Erledigt,2.7,Finanzierung,0.889,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00039,Stadt Erfurt,Handel/Kfz,Einzelunternehmen,0-9,Webformular,Außenwirtschaft,In Bearbeitung,,Außenwirtschaft,0.867,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00040,Stadt Erfurt,Handel/Kfz,Juristische Person,0-9,E-Mail,Außenwirtschaft,Offen,,Außenwirtschaft,0.928,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00041,Stadt Erfurt,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,0-9,Webformular,Recht,In Bearbeitung,,Recht,0.955,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00042,Stadt Erfurt,Verkehr und Lagerei,Einzelunternehmen,0-9,Telefon,Außenwirtschaft,Erledigt,2.7,Außenwirtschaft,0.895,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00043,Stadt Erfurt,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,Webformular,Digitalisierung,In Bearbeitung,,Digitalisierung,0.968,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00044,Stadt Erfurt,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,0-9,Telefon,Ausbildung,Erledigt,1.3,Ausbildung,0.983,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00045,Stadt Erfurt,Gastgewerbe,Einzelunternehmen,0-9,Webformular,Digitalisierung,Erledigt,0.3,Digitalisierung,0.932,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00046,Stadt Erfurt,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,0-9,Persönlich,Gründung,Erledigt,2.3,Gründung,0.871,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00047,Stadt Erfurt,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,Telefon,Recht,Erledigt,1.4,Recht,0.855,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00048,Stadt Erfurt,Verkehr und Lagerei,Einzelunternehmen,10-49,Webformular,Außenwirtschaft,done,,Außenwirtschaft,0.9,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00049,Stadt Erfurt,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,0-9,Webformular,Finanzierung,Erledigt,1.1,Finanzierung,0.677,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00050,Stadt Erfurt,Verarbeitendes Gewerbe,Personengesellschaft,0-9,E-Mail,Ausbildung,Erledigt,1.3,Ausbildung,0.945,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00051,Stadt Erfurt,Handel/Kfz,Einzelunternehmen,0-9,E-Mail,Außenwirtschaft,Erledigt,1.1,Außenwirtschaft,0.919,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00052,Stadt Erfurt,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,0-9,E-Mail,Ausbildung,Erledigt,3.7,Ausbildung,0.869,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00053,Stadt Erfurt,Verarbeitendes Gewerbe,Einzelunternehmen,0-9,Telefon,Digitalisierung,Erledigt,1.4,Digitalisierung,0.711,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00054,Stadt Erfurt,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,10-49,E-Mail,Gründung,Erledigt,1.0,Gründung,0.735,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00055,Stadt Erfurt,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Einzelunternehmen,0-9,E-Mail,Gründung,Erledigt,0.9,Gründung,0.825,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00056,Stadt Erfurt,Gastgewerbe,Juristische Person,10-49,Webformular,Recht,Erledigt,0.1,Recht,0.72,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00057,Stadt Erfurt,Gastgewerbe,Einzelunternehmen,0-9,Webformular,Gründung,Erledigt,2.7,Gründung,0.875,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00058,Stadt Erfurt,Information und Kommunikation,Einzelunternehmen,0-9,Telefon,Gründung,Erledigt,1.8,Gründung,0.988,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00059,Stadt Erfurt,Sonstige Wirtschaftsbereiche,Einzelunternehmen,10-49,E-Mail,Ausbildung,Erledigt,4.5,Ausbildung,0.838,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00060,Stadt Erfurt,Information und Kommunikation,Einzelunternehmen,0-9,Telefon,Gründung,In Bearbeitung,,Gründung,0.76,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00061,Stadt Erfurt,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,10-49,Telefon,Finanzierung,Offen,,Finanzierung,0.649,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00062,Stadt Erfurt,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,0-9,E-Mail,Finanzierung,Erledigt,0.9,Finanzierung,0.895,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00063,Stadt Erfurt,Sonstige Wirtschaftsbereiche,Juristische Person,0-9,E-Mail,Ausbildung,Erledigt,0.9,Ausbildung,0.776,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00064,Stadt Erfurt,Handel/Kfz,Einzelunternehmen,0-9,E-Mail,Außenwirtschaft,Erledigt,1.3,Außenwirtschaft,0.827,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00065,Stadt Erfurt,Baugewerbe,Einzelunternehmen,0-9,E-Mail,Gründung,Erledigt,0.6,Gründung,0.776,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00066,Stadt Erfurt,Gastgewerbe,Einzelunternehmen,0-9,E-Mail,Gründung,Erledigt,1.9,Gründung,0.88,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00067,Stadt Erfurt,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Einzelunternehmen,0-9,Telefon,Digitalisierung,Erledigt,1.4,Digitalisierung,0.89,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00068,Stadt Erfurt,Information und Kommunikation,Einzelunternehmen,0-9,Telefon,Digitalisierung,Offen,,Digitalisierung,0.719,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00069,STADT ERFURT,Finanz- und Versicherungsdienstleistungen,Einzelunternehmen,0-9,E-Mail,Gründung,Offen,,Gründung,0.864,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00070,Stadt Erfurt,Gastgewerbe,Einzelunternehmen,10-49,E-Mail,Digitalisierung,Erledigt,0.2,Digitalisierung,0.745,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00071,Stadt Erfurt,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Einzelunternehmen,0-9,E-Mail,Ausbildung,Erledigt,1.9,Ausbildung,0.8,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00072,Stadt Erfurt,Handel/Kfz,Einzelunternehmen,0-9,Persönlich,Recht,Offen,,Recht,0.942,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00073,Stadt Erfurt,Gastgewerbe,Einzelunternehmen,10-49,Telefon,Gründung,Erledigt,1.6,Gründung,0.902,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00074,Stadt Erfurt,Verarbeitendes Gewerbe,Juristische Person,0-9,Webformular,Außenwirtschaft,Erledigt,2.1,Außenwirtschaft,0.934,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00075,Stadt Erfurt,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,E-Mail,Finanzierung,Erledigt,0.4,Finanzierung,0.926,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00076,Stadt Erfurt,Verarbeitendes Gewerbe,Juristische Person,0-9,E-Mail,Ausbildung,Erledigt,1.3,Ausbildung,0.914,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00077,Stadt Erfurt,Baugewerbe,Personengesellschaft,0-9,Webformular,Ausbildung,In Bearbeitung,,Ausbildung,0.989,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00078,Stadt Erfurt,Gastgewerbe,Einzelunternehmen,0-9,E-Mail,Recht,Erledigt,1.9,Recht,0.835,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00079,Stadt Erfurt,Verarbeitendes Gewerbe,Einzelunternehmen,10-49,Telefon,Ausbildung,Erledigt,3.3,Ausbildung,0.984,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00080,Stadt Erfurt,Energie/Wasser/Abfall,Einzelunternehmen,0-9,E-Mail,Digitalisierung,Erledigt,2.0,Digitalisierung,0.91,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00081,Stadt Erfurt,Verarbeitendes Gewerbe,Einzelunternehmen,0-9,Persönlich,Ausbildung,Erledigt,3.9,Ausbildung,0.852,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00082,Stadt Erfurt,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,0-9,Persönlich,Recht,Erledigt,2.9,Recht,0.816,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00083,Stadt Erfurt,Gastgewerbe,Personengesellschaft,0-9,Telefon,Digitalisierung,Erledigt,1.9,Digitalisierung,0.879,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00084,Stadt Erfurt,Handel/Kfz,Einzelunternehmen,0-9,E-Mail,Ausbildung,Erledigt,1.4,Ausbildung,0.852,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00085,Stadt Erfurt,Baugewerbe,Einzelunternehmen,10-49,E-Mail,Ausbildung,Erledigt,0.9,Ausbildung,0.952,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00086,Stadt Erfurt,Baugewerbe,Einzelunternehmen,0-9,Telefon,Gründung,Erledigt,0.7,Gründung,0.776,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00087,Stadt Erfurt,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,0-9,E-Mail,Recht,In Bearbeitung,,Recht,0.972,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00088,Stadt Erfurt,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,0-9,Telefon,Finanzierung,Erledigt,0.4,Finanzierung,0.788,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00089,Stadt Erfurt,Baugewerbe,Personengesellschaft,0-9,Webformular,Ausbildung,In Bearbeitung,,Ausbildung,0.933,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00090,Stadt Erfurt,Handel/Kfz,Einzelunternehmen,0-9,Webformular,Ausbildung,In Bearbeitung,,Ausbildung,0.691,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00091,Stadt Erfurt,Handel/Kfz,Juristische Person,0-9,E-Mail,Recht,Erledigt,1.8,Recht,0.763,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00092,Stadt Erfurt,Baugewerbe,Einzelunternehmen,0-9,E-Mail,Ausbildung,Erledigt,0.8,Ausbildung,0.937,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00093,Stadt Erfurt,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Juristische Person,0-9,Telefon,Digitalisierung,Erledigt,1.5,Digitalisierung,0.899,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00094,Stadt Erfurt,Handel/Kfz,Einzelunternehmen,0-9,E-Mail,Ausbildung,In Bearbeitung,,Ausbildung,0.964,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00095,Stadt Erfurt,Gastgewerbe,Einzelunternehmen,0-9,E-Mail,Finanzierung,Erledigt,1.5,Finanzierung,0.799,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00096,Stadt Erfurt,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,0-9,E-Mail,Gründung,Erledigt,0.6,Gründung,0.869,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00097,Stadt Erfurt,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Einzelunternehmen,0-9,E-Mail,Digitalisierung,Erledigt,1.3,Digitalisierung,0.95,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00098,Stadt Erfurt,Handel/Kfz,Einzelunternehmen,0-9,Telefon,Recht,Erledigt,1.0,Recht,0.718,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00099,Stadt Erfurt,Sonstige wirtschaftliche Dienstleistungen,Juristische Person,0-9,E-Mail,Gründung,Erledigt,4.5,Gründung,0.852,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00100,Stadt Erfurt,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Einzelunternehmen,0-9,Webformular,Gründung,Erledigt,0.7,Gründung,0.709,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00101,Stadt Erfurt,Handel/Kfz,Einzelunternehmen,250+,E-Mail,Ausbildung,In Bearbeitung,,Ausbildung,0.976,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00102,Stadt Erfurt,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,0-9,Telefon,Digitalisierung,Offen,,Digitalisierung,0.783,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00103,STADT ERFURT,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,Telefon,Finanzierung,Erledigt,1.9,Finanzierung,0.952,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00104,Stadt Erfurt,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Juristische Person,0-9,E-Mail,Gründung,Erledigt,1.7,Gründung,0.964,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00105,Stadt Erfurt,,Einzelunternehmen,0-9,E-Mail,Gründung,Erledigt,1.2,Gründung,0.945,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00106,Stadt Erfurt,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,0-9,Webformular,Gründung,Erledigt,1.0,Gründung,0.741,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00107,Stadt Erfurt,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,E-Mail,Finanzierung,Erledigt,4.5,Finanzierung,0.97,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00108,Stadt Erfurt,Gastgewerbe,Einzelunternehmen,0-9,Webformular,Ausbildung,Erledigt,1.4,Ausbildung,0.743,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00109,Stadt Erfurt,,Einzelunternehmen,0-9,Webformular,Ausbildung,In Bearbeitung,,Ausbildung,0.951,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00110,Stadt Erfurt,Handel/Kfz,Einzelunternehmen,10-49,E-Mail,Ausbildung,Erledigt,4.1,Ausbildung,0.833,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00111,Stadt Erfurt,Handel/Kfz,Einzelunternehmen,0-9,Telefon,Ausbildung,Erledigt,0.3,Ausbildung,0.869,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00112,Stadt Erfurt,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,Webformular,Ausbildung,Erledigt,2.8,Ausbildung,0.572,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00113,Stadt Erfurt,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,Telefon,Gründung,Erledigt,1.3,Gründung,0.823,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00114,Stadt Erfurt,Information und Kommunikation,Einzelunternehmen,0-9,Telefon,Gründung,Erledigt,0.5,Gründung,0.85,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00115,Stadt Erfurt,Handel/Kfz,Einzelunternehmen,0-9,Telefon,Ausbildung,Erledigt,1.8,Ausbildung,0.88,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00116,Stadt Erfurt,Information und Kommunikation,Einzelunternehmen,0-9,E-Mail,Recht,Erledigt,1.1,Recht,0.891,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00117,Stadt Erfurt,Sonstige wirtschaftliche Dienstleistungen,Personengesellschaft,0-9,Telefon,Digitalisierung,Erledigt,2.8,Digitalisierung,0.895,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00118,Stadt Erfurt,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,Telefon,Ausbildung,Erledigt,0.2,Ausbildung,0.975,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00119,Stadt Erfurt,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,0-9,E-Mail,Gründung,Erledigt,1.3,Gründung,0.74,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00120,STADT ERFURT,Handel/Kfz,Einzelunternehmen,0-9,Webformular,Ausbildung,In Bearbeitung,,Ausbildung,0.871,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00121,Stadt Erfurt,Gastgewerbe,Einzelunternehmen,0-9,E-Mail,Recht,Offen,,Recht,0.973,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00122,Stadt Erfurt,Baugewerbe,Einzelunternehmen,0-9,E-Mail,Ausbildung,Erledigt,0.6,Ausbildung,0.867,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00123,Stadt Erfurt,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Personengesellschaft,10-49,E-Mail,Ausbildung,In Bearbeitung,,Ausbildung,0.928,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00124,Stadt Erfurt,Handel/Kfz,Einzelunternehmen,50-249,Persönlich,Ausbildung,Erledigt,0.7,Ausbildung,0.97,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00125,Stadt Erfurt,Handel/Kfz,Einzelunternehmen,0-9,Telefon,Digitalisierung,Erledigt,1.8,Digitalisierung,0.985,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00126,STADT ERFURT,Gastgewerbe,Einzelunternehmen,0-9,Telefon,Gründung,In Bearbeitung,,Gründung,0.966,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00127,Stadt Erfurt,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,E-Mail,Gründung,Erledigt,1.4,Gründung,0.939,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00128,Stadt Erfurt,Handel/Kfz,Einzelunternehmen,0-9,Persönlich,Ausbildung,Erledigt,2.5,Ausbildung,0.81,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00129,Stadt Erfurt,Baugewerbe,Einzelunternehmen,0-9,Telefon,Recht,Erledigt,2.7,Recht,0.89,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00130,Stadt Erfurt,Gastgewerbe,Juristische Person,10-49,Persönlich,Digitalisierung,Erledigt,0.8,Digitalisierung,0.687,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00131,Stadt Erfurt,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,E-Mail,Gründung,Erledigt,2.0,Gründung,0.861,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00132,Stadt Erfurt,Handel/Kfz,Einzelunternehmen,10-49,Telefon,Ausbildung,Erledigt,2.5,Ausbildung,0.806,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00133,Stadt Erfurt,Handel/Kfz,Einzelunternehmen,0-9,E-Mail,Außenwirtschaft,Erledigt,1.7,Außenwirtschaft,0.794,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00134,Stadt Erfurt,Sonstige Wirtschaftsbereiche,Juristische Person,0-9,Telefon,Ausbildung,Offen,,Ausbildung,0.85,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00135,STADT ERFURT,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,E-Mail,Digitalisierung,Erledigt,1.9,Digitalisierung,0.723,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00136,STADT ERFURT,Handel/Kfz,Einzelunternehmen,0-9,Webformular,Digitalisierung,Erledigt,1.5,Digitalisierung,0.934,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00137,Stadt Erfurt,Finanz- und Versicherungsdienstleistungen,Einzelunternehmen,10-49,Telefon,Digitalisierung,Erledigt,0.9,Digitalisierung,0.984,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00138,Stadt Erfurt,Information und Kommunikation,Einzelunternehmen,0-9,Telefon,Ausbildung,Erledigt,1.9,Ausbildung,0.736,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00139,Stadt Erfurt,Gastgewerbe,Personengesellschaft,0-9,E-Mail,Ausbildung,Erledigt,1.3,Ausbildung,0.866,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00140,Stadt Erfurt,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,Telefon,Recht,Erledigt,1.4,Recht,0.951,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00141,Stadt Gera,Handel/Kfz,Einzelunternehmen,0-9,Telefon,Ausbildung,Erledigt,2.5,Ausbildung,0.778,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00142,Stadt Gera,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Einzelunternehmen,0-9,E-Mail,Finanzierung,Erledigt,3.2,Finanzierung,0.84,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00143,Stadt Gera,,Einzelunternehmen,0-9,E-Mail,Recht,Erledigt,1.4,Recht,0.831,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00144,Stadt Gera,Finanz- und Versicherungsdienstleistungen,Juristische Person,0-9,E-Mail,Gründung,Erledigt,2.4,Gründung,0.931,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00145,Stadt Gera,Gastgewerbe,Einzelunternehmen,0-9,E-Mail,Recht,Erledigt,1.3,Recht,0.925,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00146,Stadt Gera,Gastgewerbe,Einzelunternehmen,0-9,E-Mail,Recht,Erledigt,1.2,Recht,0.969,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00147,Stadt Gera,Verkehr und Lagerei,Einzelunternehmen,0-9,E-Mail,Außenwirtschaft,Offen,,Außenwirtschaft,0.879,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00148,STADT GERA,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Einzelunternehmen,0-9,Webformular,Gründung,Erledigt,1.8,Gründung,0.893,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00149,Stadt Gera,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,0-9,Persönlich,Recht,Erledigt,3.8,Recht,0.962,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00150,Stadt Gera,Sonstige wirtschaftliche Dienstleistungen,Juristische Person,0-9,E-Mail,Digitalisierung,Erledigt,0.7,Digitalisierung,0.809,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00151,Stadt Gera,Verkehr und Lagerei,Einzelunternehmen,0-9,Webformular,Ausbildung,Erledigt,2.2,Ausbildung,0.879,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00152,Stadt Gera,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Juristische Person,0-9,Telefon,Digitalisierung,Erledigt,2.0,Digitalisierung,0.782,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00153,Stadt Gera,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,Telefon,Recht,In Bearbeitung,,Recht,0.988,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00154,Stadt Gera,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,0-9,Telefon,Digitalisierung,Erledigt,5.5,Digitalisierung,0.791,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00155,Stadt Gera,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,E-Mail,Digitalisierung,Erledigt,0.5,Digitalisierung,0.856,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00156,Stadt Gera,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,0-9,E-Mail,Digitalisierung,Erledigt,2.1,Digitalisierung,0.985,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00157,Stadt Gera,Handel/Kfz,Juristische Person,0-9,E-Mail,Ausbildung,Erledigt,0.7,Ausbildung,0.927,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00158,Stadt Gera,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,0-9,Persönlich,Recht,Erledigt,1.5,Recht,0.88,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00159,Stadt Gera,Baugewerbe,Juristische Person,0-9,E-Mail,Gründung,Erledigt,1.4,Gründung,0.943,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00160,Stadt Gera,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,0-9,E-Mail,Recht,Erledigt,0.7,Recht,0.855,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00161,Stadt Gera,Energie/Wasser/Abfall,Einzelunternehmen,10-49,E-Mail,Digitalisierung,Erledigt,1.7,Digitalisierung,0.948,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00162,Stadt Gera,Verkehr und Lagerei,Einzelunternehmen,0-9,E-Mail,Digitalisierung,Erledigt,1.0,Digitalisierung,0.843,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00163,Stadt Gera,Verarbeitendes Gewerbe,Einzelunternehmen,0-9,Persönlich,Digitalisierung,Erledigt,0.8,Digitalisierung,0.951,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00164,Stadt Gera,Baugewerbe,Einzelunternehmen,0-9,E-Mail,Gründung,Erledigt,1.5,Gründung,0.87,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00165,Stadt Gera,Energie/Wasser/Abfall,Einzelunternehmen,0-9,E-Mail,Gründung,Erledigt,1.1,Gründung,0.93,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00166,Stadt Gera,Handel/Kfz,Einzelunternehmen,10-49,E-Mail,Finanzierung,Erledigt,0.3,Finanzierung,0.921,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00167,Stadt Gera,Gastgewerbe,Einzelunternehmen,0-9,E-Mail,Finanzierung,Erledigt,1.2,Finanzierung,0.851,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00168,Stadt Gera,Handel/Kfz,Einzelunternehmen,0-9,Telefon,Digitalisierung,Erledigt,4.3,Digitalisierung,0.917,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00169,Stadt Gera,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,0-9,E-Mail,Ausbildung,Offen,,Ausbildung,0.847,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00170,Stadt Gera,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Einzelunternehmen,10-49,Webformular,Ausbildung,In Bearbeitung,,Ausbildung,0.925,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00171,Stadt Gera,Handel/Kfz,Juristische Person,0-9,Webformular,Außenwirtschaft,Erledigt,1.3,Außenwirtschaft,0.942,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00172,Stadt Gera,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,50-249,E-Mail,Ausbildung,Erledigt,0.9,Ausbildung,0.841,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00173,Stadt Gera,Sonstige Wirtschaftsbereiche,Juristische Person,10-49,Persönlich,Gründung,Erledigt,1.7,Gründung,0.683,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00174,Stadt Gera,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,E-Mail,Recht,Erledigt,0.1,Recht,0.959,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00175,Stadt Gera,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,0-9,Webformular,Digitalisierung,Offen,,Digitalisierung,0.729,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00176,Stadt Gera,Handel/Kfz,Einzelunternehmen,0-9,Webformular,Außenwirtschaft,Offen,,Außenwirtschaft,0.728,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00177,Stadt Jena,Information und Kommunikation,Personengesellschaft,0-9,E-Mail,Ausbildung,Erledigt,1.3,Ausbildung,0.935,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00178,Stadt Jena,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,0-9,Persönlich,Gründung,Erledigt,1.5,Gründung,0.967,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00179,Stadt Jena,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,Webformular,Finanzierung,Erledigt,0.5,Finanzierung,0.847,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00180,STADT JENA,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Juristische Person,10-49,Webformular,Recht,Erledigt,3.7,Recht,0.956,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00181,Stadt Jena,Gastgewerbe,Einzelunternehmen,0-9,E-Mail,Gründung,Erledigt,0.9,Gründung,0.85,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00182,Stadt Jena,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,0-9,Telefon,Finanzierung,Erledigt,2.8,Finanzierung,0.851,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00183,Stadt Jena,Sonstige wirtschaftliche Dienstleistungen,Juristische Person,0-9,Telefon,Ausbildung,In Bearbeitung,,Ausbildung,0.8,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00184,Stadt Jena,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Personengesellschaft,0-9,Webformular,Finanzierung,Erledigt,1.4,Finanzierung,0.803,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00185,Stadt Jena,Sonstige wirtschaftliche Dienstleistungen,Juristische Person,0-9,Telefon,Gründung,Erledigt,1.1,Gründung,0.944,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00186,STADT JENA,Sonstige wirtschaftliche Dienstleistungen,Personengesellschaft,50-249,E-Mail,Gründung,Erledigt,4.6,Gründung,0.766,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00187,STADT JENA,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,Telefon,Gründung,Erledigt,1.6,Gründung,0.918,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00188,Stadt Jena,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,E-Mail,Gründung,Erledigt,1.4,Gründung,0.799,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00189,Stadt Jena,Verarbeitendes Gewerbe,Einzelunternehmen,0-9,E-Mail,Ausbildung,Erledigt,2.2,Ausbildung,0.922,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00190,Stadt Jena,Baugewerbe,Einzelunternehmen,10-49,E-Mail,Gründung,done,1.0,Gründung,0.79,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00191,Stadt Jena,Sonstige wirtschaftliche Dienstleistungen,Juristische Person,0-9,Telefon,Digitalisierung,In Bearbeitung,,Digitalisierung,0.941,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00192,Stadt Jena,Baugewerbe,Juristische Person,0-9,E-Mail,Gründung,Erledigt,1.4,Gründung,0.92,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00193,Stadt Jena,Baugewerbe,Einzelunternehmen,0-9,E-Mail,Finanzierung,Erledigt,0.3,Finanzierung,0.77,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00194,Stadt Jena,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,0-9,E-Mail,Recht,In Bearbeitung,,Recht,0.945,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00195,Stadt Jena,Information und Kommunikation,Einzelunternehmen,0-9,Webformular,Digitalisierung,In Bearbeitung,,Digitalisierung,0.957,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00196,Stadt Jena,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,Telefon,Recht,Erledigt,2.0,Recht,0.867,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00197,Stadt Jena,,Einzelunternehmen,0-9,Telefon,Ausbildung,Erledigt,1.3,Ausbildung,0.736,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00198,Stadt Jena,Sonstige Wirtschaftsbereiche,Juristische Person,0-9,Telefon,Recht,Erledigt,0.7,Recht,0.825,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00199,Stadt Jena,Sonstige wirtschaftliche Dienstleistungen,Juristische Person,0-9,E-Mail,Finanzierung,Erledigt,0.5,Finanzierung,0.766,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00200,Stadt Jena,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Einzelunternehmen,0-9,E-Mail,Ausbildung,Erledigt,1.4,Ausbildung,0.979,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00201,Stadt Jena,Gastgewerbe,Juristische Person,0-9,Telefon,Finanzierung,Erledigt,0.3,Finanzierung,0.914,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00202,Stadt Jena,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Einzelunternehmen,10-49,E-Mail,Gründung,Erledigt,2.1,Gründung,0.691,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00203,Stadt Jena,Handel/Kfz,Einzelunternehmen,0-9,E-Mail,Finanzierung,done,,Finanzierung,0.924,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00204,Stadt Jena,Sonstige Wirtschaftsbereiche,Personengesellschaft,0-9,Telefon,Digitalisierung,Erledigt,0.7,Digitalisierung,0.904,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00205,Stadt Jena,,Einzelunternehmen,0-9,E-Mail,Ausbildung,Erledigt,2.2,Ausbildung,0.866,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00206,Stadt Jena,Sonstige wirtschaftliche Dienstleistungen,Juristische Person,250+,Webformular,Gründung,Erledigt,1.3,Gründung,0.775,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00207,Stadt Jena,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Einzelunternehmen,10-49,Telefon,Recht,Offen,,Recht,0.939,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00208,Stadt Jena,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Einzelunternehmen,0-9,Webformular,Finanzierung,Erledigt,1.1,Finanzierung,0.796,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00209,Stadt Jena,Handel/Kfz,Einzelunternehmen,0-9,Telefon,Ausbildung,Erledigt,2.6,Ausbildung,0.964,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00210,STADT JENA,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Personengesellschaft,0-9,Webformular,Gründung,Erledigt,2.8,Gründung,0.925,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00211,Stadt Jena,Handel/Kfz,Juristische Person,0-9,Telefon,Außenwirtschaft,Erledigt,1.1,Außenwirtschaft,0.861,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00212,Stadt Jena,Information und Kommunikation,Einzelunternehmen,0-9,E-Mail,Digitalisierung,Erledigt,0.9,Digitalisierung,0.81,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00213,Stadt Jena,Sonstige Wirtschaftsbereiche,Einzelunternehmen,10-49,E-Mail,Gründung,Offen,,Gründung,0.848,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00214,Stadt Jena,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Einzelunternehmen,0-9,Telefon,Digitalisierung,Erledigt,1.3,Digitalisierung,0.783,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00215,Stadt Jena,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,0-9,E-Mail,Digitalisierung,Erledigt,1.1,Digitalisierung,0.788,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00216,Stadt Jena,Handel/Kfz,Einzelunternehmen,0-9,E-Mail,Außenwirtschaft,Erledigt,0.7,Außenwirtschaft,0.87,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00217,Stadt Jena,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Einzelunternehmen,0-9,Persönlich,Digitalisierung,Erledigt,0.8,Digitalisierung,0.807,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00218,Stadt Jena,Handel/Kfz,Personengesellschaft,10-49,Telefon,Außenwirtschaft,Erledigt,2.8,Außenwirtschaft,0.979,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00219,Stadt Jena,Verkehr und Lagerei,Einzelunternehmen,10-49,E-Mail,Recht,Erledigt,1.6,Recht,0.688,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00220,Stadt Jena,Verarbeitendes Gewerbe,Einzelunternehmen,0-9,Persönlich,Außenwirtschaft,Erledigt,1.5,Außenwirtschaft,0.823,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00221,Stadt Jena,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Einzelunternehmen,0-9,E-Mail,Finanzierung,Erledigt,1.0,Finanzierung,0.667,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00222,Stadt Jena,Verkehr und Lagerei,Einzelunternehmen,0-9,E-Mail,Ausbildung,Erledigt,1.7,Ausbildung,0.93,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00223,Stadt Jena,Handel/Kfz,Einzelunternehmen,0-9,Persönlich,Digitalisierung,Erledigt,3.1,Digitalisierung,0.918,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00224,Stadt Jena,Baugewerbe,Einzelunternehmen,50-249,Telefon,Finanzierung,Erledigt,2.3,Finanzierung,0.736,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00225,Stadt Jena,Handel/Kfz,Juristische Person,10-49,E-Mail,Außenwirtschaft,Erledigt,2.1,Außenwirtschaft,0.867,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00226,Stadt Jena,Sonstige Wirtschaftsbereiche,Einzelunternehmen,10-49,Telefon,Digitalisierung,Erledigt,1.1,Digitalisierung,0.767,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00227,Stadt Jena,Handel/Kfz,Einzelunternehmen,0-9,Telefon,Digitalisierung,Erledigt,0.8,Digitalisierung,0.978,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00228,Stadt Jena,Handel/Kfz,Einzelunternehmen,0-9,E-Mail,Ausbildung,Offen,,Ausbildung,0.924,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00229,Stadt Suhl,Verarbeitendes Gewerbe,Personengesellschaft,0-9,Telefon,Finanzierung,Erledigt,1.6,Finanzierung,0.826,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00230,Stadt Suhl,,Juristische Person,0-9,Telefon,Digitalisierung,Erledigt,1.5,Digitalisierung,0.811,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00231,Stadt Suhl,Handel/Kfz,Einzelunternehmen,0-9,E-Mail,Digitalisierung,In Bearbeitung,,Digitalisierung,0.664,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00232,Stadt Suhl,Handel/Kfz,Juristische Person,0-9,Telefon,Außenwirtschaft,Erledigt,3.4,Außenwirtschaft,0.813,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00233,Stadt Suhl,Verarbeitendes Gewerbe,Personengesellschaft,0-9,E-Mail,Recht,Erledigt,2.3,Recht,0.819,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00234,Stadt Suhl,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,0-9,E-Mail,Digitalisierung,Offen,,Digitalisierung,0.924,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00235,Stadt Suhl,Handel/Kfz,Juristische Person,0-9,Webformular,Außenwirtschaft,Erledigt,3.5,Außenwirtschaft,0.908,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00236,Stadt Weimar,Handel/Kfz,Einzelunternehmen,0-9,E-Mail,Außenwirtschaft,Erledigt,1.4,Außenwirtschaft,0.773,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00237,Stadt Weimar,Handel/Kfz,Juristische Person,0-9,Telefon,Ausbildung,Erledigt,0.9,Ausbildung,0.91,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00238,Stadt Weimar,Handel/Kfz,Einzelunternehmen,0-9,Telefon,Außenwirtschaft,Erledigt,1.2,Außenwirtschaft,0.86,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00239,Stadt Weimar,Verarbeitendes Gewerbe,Einzelunternehmen,10-49,E-Mail,Digitalisierung,Erledigt,2.4,Digitalisierung,0.919,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00240,Stadt Weimar,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,Telefon,Gründung,Erledigt,4.7,Gründung,0.944,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00241,Stadt Weimar,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,E-Mail,Gründung,Erledigt,1.1,Gründung,0.887,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00242,Stadt Weimar,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,Webformular,Recht,Erledigt,1.0,Recht,0.725,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00243,Stadt Weimar,Energie/Wasser/Abfall,Juristische Person,0-9,Webformular,Digitalisierung,Erledigt,0.7,Digitalisierung,0.792,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00244,Stadt Weimar,Gastgewerbe,Einzelunternehmen,10-49,E-Mail,Ausbildung,Erledigt,1.7,Ausbildung,0.966,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00245,Stadt Weimar,Handel/Kfz,Juristische Person,0-9,E-Mail,Ausbildung,Erledigt,0.5,Ausbildung,0.818,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00246,Stadt Weimar,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,Persönlich,Recht,Erledigt,0.8,Recht,0.959,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00247,Stadt Weimar,Verarbeitendes Gewerbe,Einzelunternehmen,10-49,Persönlich,Ausbildung,Erledigt,1.4,Ausbildung,0.916,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00248,Stadt Weimar,Verarbeitendes Gewerbe,Einzelunternehmen,10-49,E-Mail,Finanzierung,Offen,,Finanzierung,0.78,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00249,Stadt Weimar,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,0-9,E-Mail,Digitalisierung,Erledigt,2.8,Digitalisierung,0.836,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00250,Stadt Weimar,Energie/Wasser/Abfall,Einzelunternehmen,0-9,E-Mail,Digitalisierung,Erledigt,2.2,Digitalisierung,0.95,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00251,Stadt Weimar,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,0-9,Telefon,Ausbildung,Erledigt,1.4,Ausbildung,0.799,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00252,Stadt Weimar,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,Webformular,Ausbildung,In Bearbeitung,,Ausbildung,0.918,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00253,Stadt Weimar,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,Telefon,Digitalisierung,In Bearbeitung,,Digitalisierung,0.904,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00254,Stadt Weimar,Verarbeitendes Gewerbe,Einzelunternehmen,0-9,Telefon,Digitalisierung,Erledigt,2.2,Digitalisierung,0.755,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00255,Stadt Weimar,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Einzelunternehmen,0-9,Telefon,Digitalisierung,Erledigt,3.1,Digitalisierung,0.993,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00256,STADT WEIMAR,Handel/Kfz,Einzelunternehmen,10-49,E-Mail,Außenwirtschaft,Offen,,Außenwirtschaft,0.93,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00257,Stadt Weimar,Gastgewerbe,Einzelunternehmen,10-49,E-Mail,Recht,Erledigt,1.6,Recht,0.839,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00258,Stadt Weimar,Verkehr und Lagerei,Einzelunternehmen,10-49,E-Mail,Finanzierung,Erledigt,2.1,Finanzierung,0.93,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00259,Stadt Weimar,Verarbeitendes Gewerbe,Einzelunternehmen,0-9,Webformular,Außenwirtschaft,done,2.3,Außenwirtschaft,0.835,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00260,Stadt Weimar,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Juristische Person,0-9,E-Mail,Finanzierung,Erledigt,3.0,Finanzierung,0.886,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00261,Stadt Weimar,Handel/Kfz,Einzelunternehmen,0-9,Telefon,Recht,Erledigt,0.9,Recht,0.99,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00262,Stadt Weimar,Sonstige wirtschaftliche Dienstleistungen,Juristische Person,10-49,E-Mail,Gründung,Erledigt,3.9,Gründung,0.777,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00263,STADT WEIMAR,Handel/Kfz,Einzelunternehmen,0-9,Telefon,Außenwirtschaft,Erledigt,0.6,Außenwirtschaft,0.922,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00264,Stadt Weimar,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,0-9,Telefon,Ausbildung,Erledigt,1.3,Ausbildung,0.856,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00265,Eichsfeld,Sonstige Wirtschaftsbereiche,Juristische Person,0-9,Persönlich,Ausbildung,In Bearbeitung,,Ausbildung,0.947,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00266,Eichsfeld,Verarbeitendes Gewerbe,Einzelunternehmen,0-9,Webformular,Recht,Erledigt,1.3,Recht,0.921,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00267,Eichsfeld,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,0-9,E-Mail,Ausbildung,Erledigt,4.6,Ausbildung,0.845,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00268,Eichsfeld,Handel/Kfz,Einzelunternehmen,0-9,Telefon,Ausbildung,Erledigt,3.5,Ausbildung,0.955,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00269,Eichsfeld,Gastgewerbe,Einzelunternehmen,0-9,E-Mail,Ausbildung,Erledigt,2.2,Ausbildung,0.889,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00270,Eichsfeld,Handel/Kfz,Einzelunternehmen,10-49,E-Mail,Außenwirtschaft,Erledigt,0.9,Außenwirtschaft,0.873,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00271,Eichsfeld,Gastgewerbe,Einzelunternehmen,10-49,Telefon,Recht,Erledigt,0.9,Recht,0.914,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00272,Eichsfeld,Finanz- und Versicherungsdienstleistungen,Einzelunternehmen,10-49,E-Mail,Ausbildung,Erledigt,1.0,Ausbildung,0.829,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00273,Eichsfeld,Gastgewerbe,Einzelunternehmen,0-9,Telefon,Gründung,Erledigt,0.4,Gründung,0.915,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00274,Eichsfeld,Handel/Kfz,Einzelunternehmen,0-9,E-Mail,Außenwirtschaft,Erledigt,0.7,Außenwirtschaft,0.55,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00275,Eichsfeld,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,Webformular,Gründung,Offen,,Gründung,0.823,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00276,Eichsfeld,Handel/Kfz,Einzelunternehmen,0-9,E-Mail,Ausbildung,Erledigt,5.5,Ausbildung,0.864,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00277,Eichsfeld,Baugewerbe,Einzelunternehmen,50-249,E-Mail,Ausbildung,Erledigt,0.7,Ausbildung,0.855,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00278,Eichsfeld,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Einzelunternehmen,0-9,Persönlich,Recht,Erledigt,0.6,Recht,0.846,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00279,Eichsfeld,Verkehr und Lagerei,Einzelunternehmen,0-9,E-Mail,Ausbildung,Erledigt,1.1,Ausbildung,0.926,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00280,Eichsfeld,Finanz- und Versicherungsdienstleistungen,Einzelunternehmen,0-9,Persönlich,Digitalisierung,Erledigt,2.3,Digitalisierung,0.931,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00281,Eichsfeld,Finanz- und Versicherungsdienstleistungen,Einzelunternehmen,0-9,Telefon,Recht,Erledigt,0.6,Recht,0.955,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00282,Eichsfeld,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,E-Mail,Gründung,Erledigt,1.2,Gründung,0.87,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00283,Eichsfeld,Gastgewerbe,Einzelunternehmen,0-9,Telefon,Digitalisierung,Erledigt,0.2,Digitalisierung,0.933,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00284,Eichsfeld,Handel/Kfz,Juristische Person,10-49,Persönlich,Außenwirtschaft,In Bearbeitung,,Außenwirtschaft,0.921,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00285,Eichsfeld,Finanz- und Versicherungsdienstleistungen,Einzelunternehmen,0-9,E-Mail,Recht,Erledigt,1.2,Recht,0.818,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00286,Eichsfeld,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Einzelunternehmen,250+,Persönlich,Finanzierung,Offen,,Finanzierung,0.752,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00287,Eichsfeld,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,Telefon,Recht,Erledigt,1.6,Recht,0.64,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00288,Eichsfeld,Sonstige Wirtschaftsbereiche,Einzelunternehmen,10-49,E-Mail,Ausbildung,Erledigt,3.2,Ausbildung,0.588,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00289,Eichsfeld,Verarbeitendes Gewerbe,Einzelunternehmen,0-9,E-Mail,Außenwirtschaft,Erledigt,2.8,Außenwirtschaft,0.929,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00290,Eichsfeld,Handel/Kfz,Einzelunternehmen,0-9,Webformular,Recht,Erledigt,2.6,Recht,0.837,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00291,Eichsfeld,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,Telefon,Digitalisierung,Erledigt,1.1,Digitalisierung,0.905,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00292,Eichsfeld,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,0-9,E-Mail,Gründung,Erledigt,1.4,Gründung,0.907,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00293,Eichsfeld,Handel/Kfz,Einzelunternehmen,0-9,E-Mail,Recht,In Bearbeitung,,Recht,0.788,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00294,Eichsfeld,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,E-Mail,Finanzierung,Erledigt,0.6,Finanzierung,0.933,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00295,Eichsfeld,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,Telefon,Gründung,Erledigt,0.6,Gründung,0.97,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00296,Eichsfeld,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,10-49,Persönlich,Ausbildung,Erledigt,2.4,Ausbildung,0.978,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00297,EICHSFELD,Information und Kommunikation,Einzelunternehmen,0-9,Telefon,Finanzierung,Offen,,Finanzierung,0.77,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00298,Eichsfeld,Sonstige Wirtschaftsbereiche,Juristische Person,0-9,Telefon,Finanzierung,Erledigt,3.8,Finanzierung,0.944,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00299,Eichsfeld,,Einzelunternehmen,0-9,Persönlich,Recht,Erledigt,2.6,Recht,0.832,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00300,Eichsfeld,Verarbeitendes Gewerbe,Einzelunternehmen,0-9,Telefon,Finanzierung,Erledigt,3.6,Finanzierung,0.864,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00301,EICHSFELD,Finanz- und Versicherungsdienstleistungen,Einzelunternehmen,0-9,Telefon,Finanzierung,In Bearbeitung,,Finanzierung,0.877,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00302,Eichsfeld,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Einzelunternehmen,0-9,Telefon,Gründung,In Bearbeitung,,Gründung,0.986,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00303,Eichsfeld,Gastgewerbe,Einzelunternehmen,0-9,Telefon,Gründung,Erledigt,2.4,Gründung,0.739,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00304,Eichsfeld,Information und Kommunikation,Einzelunternehmen,50-249,E-Mail,Gründung,Erledigt,2.1,Gründung,0.867,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00305,Eichsfeld,Information und Kommunikation,Einzelunternehmen,0-9,E-Mail,Gründung,Erledigt,0.9,Gründung,0.778,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00306,Eichsfeld,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Einzelunternehmen,0-9,Telefon,Recht,Erledigt,2.3,Recht,0.805,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00307,Eichsfeld,Verarbeitendes Gewerbe,Einzelunternehmen,0-9,Telefon,Ausbildung,Erledigt,3.7,Ausbildung,0.985,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00308,Eichsfeld,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,E-Mail,Gründung,Erledigt,0.9,Gründung,0.88,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00309,Nordhausen,Gastgewerbe,Einzelunternehmen,0-9,E-Mail,Ausbildung,Erledigt,3.4,Ausbildung,0.945,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00310,Nordhausen,Sonstige Wirtschaftsbereiche,Juristische Person,0-9,Webformular,Recht,Erledigt,2.4,Recht,0.768,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00311,Nordhausen,Baugewerbe,Einzelunternehmen,0-9,Webformular,Ausbildung,Erledigt,0.6,Ausbildung,0.919,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00312,Nordhausen,Handel/Kfz,Einzelunternehmen,0-9,Telefon,Ausbildung,Erledigt,0.8,Ausbildung,0.782,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00313,Nordhausen,Gastgewerbe,Juristische Person,0-9,Persönlich,Recht,Erledigt,3.4,Recht,0.837,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00314,Nordhausen,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Einzelunternehmen,0-9,Telefon,Recht,In Bearbeitung,,Recht,0.92,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00315,Nordhausen,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,Telefon,Gründung,Erledigt,1.9,Gründung,0.907,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00316,Nordhausen,Information und Kommunikation,Einzelunternehmen,0-9,Telefon,Gründung,Erledigt,1.4,Gründung,0.893,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00317,Nordhausen,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,Telefon,Digitalisierung,In Bearbeitung,,Digitalisierung,0.958,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00318,Nordhausen,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Einzelunternehmen,0-9,Webformular,Gründung,Erledigt,0.9,Gründung,0.888,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00319,Nordhausen,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Einzelunternehmen,10-49,E-Mail,Digitalisierung,Erledigt,1.8,Digitalisierung,0.701,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00320,Nordhausen,Sonstige Wirtschaftsbereiche,Einzelunternehmen,10-49,Telefon,Ausbildung,Offen,,Ausbildung,0.813,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00321,Nordhausen,,Juristische Person,0-9,Webformular,Gründung,Erledigt,0.8,Gründung,0.727,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00322,Nordhausen,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,E-Mail,Finanzierung,Erledigt,2.6,Finanzierung,0.874,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00323,Nordhausen,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,Telefon,Recht,In Bearbeitung,,Recht,0.982,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00324,Nordhausen,Sonstige Wirtschaftsbereiche,Einzelunternehmen,250+,E-Mail,Digitalisierung,Offen,,Digitalisierung,0.586,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00325,Nordhausen,Baugewerbe,Einzelunternehmen,0-9,Webformular,Gründung,Erledigt,0.9,Gründung,0.849,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00326,Nordhausen,Information und Kommunikation,Einzelunternehmen,0-9,E-Mail,Digitalisierung,Erledigt,0.2,Digitalisierung,0.959,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00327,Nordhausen,Handel/Kfz,Einzelunternehmen,10-49,Telefon,Außenwirtschaft,Erledigt,1.9,Außenwirtschaft,0.945,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00328,Nordhausen,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Einzelunternehmen,0-9,Webformular,Gründung,Erledigt,2.8,Gründung,0.799,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00329,Nordhausen,Verkehr und Lagerei,Einzelunternehmen,10-49,E-Mail,Recht,Erledigt,1.9,Recht,0.968,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00330,Nordhausen,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,0-9,Telefon,Gründung,Erledigt,3.6,Gründung,0.853,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00331,Nordhausen,,Einzelunternehmen,0-9,Webformular,Ausbildung,Erledigt,0.6,Ausbildung,0.893,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00332,Nordhausen,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,0-9,Webformular,Gründung,Erledigt,2.5,Gründung,0.862,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00333,Nordhausen,Baugewerbe,Einzelunternehmen,0-9,E-Mail,Gründung,In Bearbeitung,,Gründung,0.938,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00334,Nordhausen,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,E-Mail,Ausbildung,Erledigt,1.1,Ausbildung,0.873,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00335,Wartburgkreis,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,E-Mail,Recht,In Bearbeitung,,Recht,0.943,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00336,Wartburgkreis,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,E-Mail,Finanzierung,done,,Finanzierung,0.951,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00337,Wartburgkreis,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,Telefon,Recht,Erledigt,0.8,Recht,0.68,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00338,Wartburgkreis,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,Webformular,Ausbildung,Erledigt,1.5,Ausbildung,0.749,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00339,Wartburgkreis,Energie/Wasser/Abfall,Einzelunternehmen,0-9,Telefon,Digitalisierung,Erledigt,3.1,Digitalisierung,0.917,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00340,Wartburgkreis,Verarbeitendes Gewerbe,Juristische Person,0-9,E-Mail,Außenwirtschaft,Offen,,Außenwirtschaft,0.931,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00341,Wartburgkreis,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,E-Mail,Gründung,Erledigt,1.7,Gründung,0.89,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00342,Wartburgkreis,Information und Kommunikation,Einzelunternehmen,0-9,Telefon,Finanzierung,Erledigt,2.2,Finanzierung,0.95,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00343,Wartburgkreis,,Juristische Person,0-9,Persönlich,Ausbildung,Erledigt,1.6,Ausbildung,0.909,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00344,Wartburgkreis,Gastgewerbe,Einzelunternehmen,0-9,E-Mail,Gründung,Erledigt,0.8,Gründung,0.994,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00345,Wartburgkreis,Handel/Kfz,Einzelunternehmen,0-9,E-Mail,Ausbildung,Erledigt,2.1,Ausbildung,0.749,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00346,Wartburgkreis,,Einzelunternehmen,0-9,Telefon,Gründung,Erledigt,1.5,Gründung,0.938,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00347,Wartburgkreis,Baugewerbe,Einzelunternehmen,0-9,Webformular,Gründung,Erledigt,2.9,Gründung,0.972,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00348,Wartburgkreis,Sonstige Wirtschaftsbereiche,Juristische Person,0-9,Webformular,Finanzierung,Offen,,Finanzierung,0.944,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00349,Wartburgkreis,Verarbeitendes Gewerbe,Einzelunternehmen,50-249,E-Mail,Recht,Erledigt,0.7,Recht,0.592,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00350,Wartburgkreis,Handel/Kfz,Einzelunternehmen,0-9,E-Mail,Ausbildung,Erledigt,1.2,Ausbildung,0.618,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00351,Wartburgkreis,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Einzelunternehmen,0-9,E-Mail,Digitalisierung,Erledigt,1.5,Digitalisierung,0.744,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00352,Wartburgkreis,Gastgewerbe,Einzelunternehmen,10-49,Telefon,Gründung,Erledigt,0.4,Gründung,0.726,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00353,Wartburgkreis,Handel/Kfz,Einzelunternehmen,0-9,Telefon,Außenwirtschaft,In Bearbeitung,,Außenwirtschaft,0.989,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00354,WARTBURGKREIS,Gastgewerbe,Einzelunternehmen,0-9,E-Mail,Digitalisierung,Erledigt,1.6,Digitalisierung,0.853,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00355,Wartburgkreis,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Einzelunternehmen,0-9,Webformular,Recht,In Bearbeitung,,Recht,0.893,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00356,Wartburgkreis,Sonstige Wirtschaftsbereiche,Einzelunternehmen,10-49,Webformular,Recht,Erledigt,0.6,Recht,0.932,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00357,WARTBURGKREIS,Verarbeitendes Gewerbe,Juristische Person,0-9,E-Mail,Recht,Erledigt,2.9,Recht,0.899,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00358,Wartburgkreis,Verarbeitendes Gewerbe,Juristische Person,0-9,E-Mail,Außenwirtschaft,Offen,,Außenwirtschaft,0.948,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00359,Wartburgkreis,Gastgewerbe,Einzelunternehmen,0-9,Persönlich,Recht,Erledigt,0.8,Recht,0.925,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00360,Wartburgkreis,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,0-9,Telefon,Digitalisierung,Offen,,Digitalisierung,0.845,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00361,Wartburgkreis,,Einzelunternehmen,10-49,Webformular,Digitalisierung,Erledigt,1.1,Digitalisierung,0.761,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00362,Wartburgkreis,Handel/Kfz,Einzelunternehmen,0-9,E-Mail,Digitalisierung,Erledigt,1.8,Digitalisierung,0.943,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00363,Wartburgkreis,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Einzelunternehmen,0-9,E-Mail,Ausbildung,Erledigt,3.6,Ausbildung,0.975,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00364,Wartburgkreis,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,0-9,Telefon,Recht,Erledigt,2.8,Recht,0.861,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00365,Wartburgkreis,Finanz- und Versicherungsdienstleistungen,Juristische Person,0-9,E-Mail,Gründung,Erledigt,3.6,Gründung,0.868,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00366,WARTBURGKREIS,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,Telefon,Digitalisierung,Erledigt,1.0,Digitalisierung,0.845,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00367,Wartburgkreis,Gastgewerbe,Einzelunternehmen,0-9,Telefon,Ausbildung,Erledigt,0.9,Ausbildung,0.834,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00368,Wartburgkreis,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,E-Mail,Ausbildung,Erledigt,0.3,Ausbildung,0.858,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00369,Wartburgkreis,Handel/Kfz,Einzelunternehmen,0-9,E-Mail,Ausbildung,In Bearbeitung,,Ausbildung,0.937,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00370,Wartburgkreis,Baugewerbe,Einzelunternehmen,0-9,Telefon,Gründung,Erledigt,0.6,Gründung,0.931,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00371,Wartburgkreis,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,0-9,Persönlich,Gründung,Offen,,Gründung,0.893,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00372,WARTBURGKREIS,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,50-249,E-Mail,Gründung,Erledigt,1.7,Gründung,0.77,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00373,Wartburgkreis,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,250+,E-Mail,Ausbildung,Erledigt,1.1,Ausbildung,0.804,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00374,Wartburgkreis,Information und Kommunikation,Einzelunternehmen,0-9,Webformular,Digitalisierung,Erledigt,3.0,Digitalisierung,0.898,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00375,Wartburgkreis,Verarbeitendes Gewerbe,Juristische Person,0-9,E-Mail,Finanzierung,Erledigt,1.0,Finanzierung,0.862,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00376,Wartburgkreis,Handel/Kfz,Einzelunternehmen,50-249,E-Mail,Digitalisierung,Erledigt,1.2,Digitalisierung,0.953,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00377,Wartburgkreis,Information und Kommunikation,Einzelunternehmen,0-9,Persönlich,Ausbildung,Erledigt,1.1,Ausbildung,0.963,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00378,Wartburgkreis,Information und Kommunikation,Juristische Person,0-9,E-Mail,Digitalisierung,Erledigt,2.9,Digitalisierung,0.798,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00379,Wartburgkreis,,Einzelunternehmen,0-9,E-Mail,Recht,Erledigt,0.8,Recht,0.84,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00380,WARTBURGKREIS,Gastgewerbe,Personengesellschaft,0-9,Telefon,Recht,Erledigt,1.4,Recht,0.87,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00381,Wartburgkreis,Baugewerbe,Einzelunternehmen,50-249,Telefon,Ausbildung,Erledigt,0.2,Ausbildung,0.846,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00382,Wartburgkreis,Handel/Kfz,Einzelunternehmen,0-9,Telefon,Digitalisierung,Erledigt,7.4,Digitalisierung,0.94,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00383,Wartburgkreis,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,0-9,E-Mail,Ausbildung,Erledigt,2.3,Ausbildung,0.865,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00384,Wartburgkreis,Sonstige Wirtschaftsbereiche,Juristische Person,0-9,Telefon,Recht,Erledigt,3.1,Recht,0.966,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00385,WARTBURGKREIS,Gastgewerbe,Einzelunternehmen,0-9,Webformular,Ausbildung,Erledigt,1.0,Ausbildung,0.909,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00386,Wartburgkreis,Verarbeitendes Gewerbe,Einzelunternehmen,0-9,Webformular,Außenwirtschaft,Offen,,Außenwirtschaft,0.906,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00387,Wartburgkreis,Handel/Kfz,Einzelunternehmen,10-49,E-Mail,Recht,In Bearbeitung,,Recht,0.873,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00388,Wartburgkreis,Handel/Kfz,Juristische Person,0-9,Webformular,Finanzierung,Erledigt,1.5,Finanzierung,0.926,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00389,Wartburgkreis,Energie/Wasser/Abfall,Juristische Person,0-9,E-Mail,Ausbildung,Erledigt,1.3,Ausbildung,0.944,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00390,Wartburgkreis,Finanz- und Versicherungsdienstleistungen,Einzelunternehmen,0-9,E-Mail,Digitalisierung,Erledigt,3.5,Digitalisierung,0.864,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00391,Wartburgkreis,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Einzelunternehmen,10-49,Webformular,Gründung,Erledigt,0.9,Gründung,0.935,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00392,WARTBURGKREIS,Baugewerbe,Einzelunternehmen,0-9,E-Mail,Gründung,Erledigt,1.4,Gründung,0.846,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00393,WARTBURGKREIS,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Einzelunternehmen,0-9,E-Mail,Finanzierung,Erledigt,2.9,Finanzierung,0.748,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00394,Wartburgkreis,Sonstige wirtschaftliche Dienstleistungen,Juristische Person,0-9,Persönlich,Digitalisierung,Erledigt,0.9,Digitalisierung,0.805,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00395,Wartburgkreis,Handel/Kfz,Juristische Person,0-9,E-Mail,Ausbildung,Offen,,Ausbildung,0.889,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00396,Wartburgkreis,,Einzelunternehmen,0-9,Webformular,Digitalisierung,Erledigt,1.6,Digitalisierung,0.791,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00397,Wartburgkreis,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Einzelunternehmen,0-9,Webformular,Digitalisierung,Erledigt,4.0,Digitalisierung,0.799,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00398,Wartburgkreis,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,Webformular,Gründung,Erledigt,4.5,Gründung,0.922,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00399,Wartburgkreis,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Einzelunternehmen,0-9,Telefon,Digitalisierung,Erledigt,1.7,Digitalisierung,0.701,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00400,Wartburgkreis,Handel/Kfz,Einzelunternehmen,0-9,Persönlich,Außenwirtschaft,Erledigt,2.1,Außenwirtschaft,0.688,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00401,Wartburgkreis,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Einzelunternehmen,10-49,E-Mail,Recht,Erledigt,1.6,Recht,0.895,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00402,Wartburgkreis,Finanz- und Versicherungsdienstleistungen,Einzelunternehmen,0-9,E-Mail,Ausbildung,Erledigt,1.6,Ausbildung,0.85,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00403,Unstrut-Hainich-Kreis,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Einzelunternehmen,0-9,Telefon,Digitalisierung,In Bearbeitung,,Digitalisierung,0.832,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00404,Unstrut-Hainich-Kreis,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Einzelunternehmen,0-9,Persönlich,Digitalisierung,Erledigt,1.4,Digitalisierung,0.925,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00405,Unstrut-Hainich-Kreis,Handel/Kfz,Juristische Person,10-49,E-Mail,Außenwirtschaft,Erledigt,2.9,Außenwirtschaft,0.863,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00406,Unstrut-Hainich-Kreis,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,Telefon,Digitalisierung,Erledigt,0.6,Digitalisierung,0.73,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00407,Unstrut-Hainich-Kreis,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Einzelunternehmen,0-9,Persönlich,Digitalisierung,Erledigt,1.3,Digitalisierung,0.962,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00408,Unstrut-Hainich-Kreis,Information und Kommunikation,Personengesellschaft,0-9,E-Mail,Digitalisierung,In Bearbeitung,,Digitalisierung,0.982,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00409,Unstrut-Hainich-Kreis,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,0-9,Webformular,Gründung,Erledigt,1.9,Gründung,0.739,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00410,Unstrut-Hainich-Kreis,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Einzelunternehmen,0-9,E-Mail,Ausbildung,Erledigt,1.4,Ausbildung,0.791,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00411,Unstrut-Hainich-Kreis,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,0-9,E-Mail,Finanzierung,done,0.3,Finanzierung,0.931,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00412,Unstrut-Hainich-Kreis,Gastgewerbe,Einzelunternehmen,0-9,E-Mail,Gründung,Erledigt,5.4,Gründung,0.929,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00413,Unstrut-Hainich-Kreis,Verarbeitendes Gewerbe,Einzelunternehmen,10-49,E-Mail,Ausbildung,In Bearbeitung,,Ausbildung,0.985,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00414,Unstrut-Hainich-Kreis,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,Persönlich,Recht,Erledigt,0.3,Recht,0.969,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00415,Unstrut-Hainich-Kreis,Information und Kommunikation,Einzelunternehmen,10-49,E-Mail,Finanzierung,Erledigt,2.3,Finanzierung,0.88,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00416,Unstrut-Hainich-Kreis,Handel/Kfz,Einzelunternehmen,0-9,Persönlich,Digitalisierung,Erledigt,0.7,Digitalisierung,0.721,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00417,Unstrut-Hainich-Kreis,Handel/Kfz,Einzelunternehmen,0-9,E-Mail,Digitalisierung,Erledigt,2.7,Digitalisierung,0.966,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00418,Unstrut-Hainich-Kreis,Handel/Kfz,Einzelunternehmen,0-9,Webformular,Ausbildung,Erledigt,0.3,Ausbildung,0.755,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00419,UNSTRUT-HAINICH-KREIS,Handel/Kfz,Einzelunternehmen,0-9,Telefon,Finanzierung,Erledigt,1.8,Finanzierung,0.667,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00420,UNSTRUT-HAINICH-KREIS,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,E-Mail,Ausbildung,Erledigt,1.1,Ausbildung,0.963,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00421,Unstrut-Hainich-Kreis,Gastgewerbe,Einzelunternehmen,0-9,Webformular,Recht,Erledigt,3.0,Recht,0.866,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00422,Unstrut-Hainich-Kreis,Information und Kommunikation,Einzelunternehmen,0-9,Persönlich,Digitalisierung,In Bearbeitung,,Digitalisierung,0.734,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00423,Unstrut-Hainich-Kreis,Information und Kommunikation,Einzelunternehmen,0-9,Webformular,Digitalisierung,Erledigt,2.5,Digitalisierung,0.758,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00424,Unstrut-Hainich-Kreis,Baugewerbe,Einzelunternehmen,0-9,Webformular,Digitalisierung,Erledigt,1.8,Digitalisierung,0.941,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00425,Unstrut-Hainich-Kreis,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,E-Mail,Recht,Erledigt,1.7,Recht,0.758,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00426,Unstrut-Hainich-Kreis,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,Telefon,Recht,Offen,,Recht,0.896,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00427,Unstrut-Hainich-Kreis,Information und Kommunikation,Einzelunternehmen,0-9,E-Mail,Digitalisierung,Erledigt,0.6,Digitalisierung,0.889,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00428,Unstrut-Hainich-Kreis,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,0-9,Webformular,Ausbildung,Erledigt,0.7,Ausbildung,0.694,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00429,Unstrut-Hainich-Kreis,Verarbeitendes Gewerbe,Einzelunternehmen,0-9,Webformular,Ausbildung,Erledigt,0.4,Ausbildung,0.949,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00430,Unstrut-Hainich-Kreis,Handel/Kfz,Einzelunternehmen,0-9,E-Mail,Außenwirtschaft,Offen,,Außenwirtschaft,0.906,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00431,Unstrut-Hainich-Kreis,Information und Kommunikation,Einzelunternehmen,0-9,E-Mail,Digitalisierung,Offen,,Digitalisierung,0.672,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00432,Unstrut-Hainich-Kreis,Handel/Kfz,Einzelunternehmen,10-49,E-Mail,Außenwirtschaft,Erledigt,1.6,Außenwirtschaft,0.862,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00433,Unstrut-Hainich-Kreis,Handel/Kfz,Juristische Person,0-9,Telefon,Außenwirtschaft,Erledigt,0.9,Außenwirtschaft,0.827,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00434,Unstrut-Hainich-Kreis,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,Telefon,Gründung,Erledigt,1.2,Gründung,0.858,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00435,Unstrut-Hainich-Kreis,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,Telefon,Ausbildung,Erledigt,0.4,Ausbildung,0.921,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00436,Unstrut-Hainich-Kreis,Gastgewerbe,Einzelunternehmen,10-49,E-Mail,Gründung,Erledigt,1.7,Gründung,0.964,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00437,Unstrut-Hainich-Kreis,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Einzelunternehmen,0-9,Persönlich,Ausbildung,In Bearbeitung,,Ausbildung,0.792,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00438,Unstrut-Hainich-Kreis,Sonstige Wirtschaftsbereiche,Einzelunternehmen,50-249,E-Mail,Recht,Erledigt,0.5,Recht,0.949,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00439,Unstrut-Hainich-Kreis,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,10-49,Telefon,Digitalisierung,Offen,,Digitalisierung,0.812,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00440,Unstrut-Hainich-Kreis,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Einzelunternehmen,0-9,E-Mail,Gründung,Erledigt,0.1,Gründung,0.937,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00441,Unstrut-Hainich-Kreis,Gastgewerbe,Einzelunternehmen,0-9,Telefon,Gründung,Erledigt,2.3,Gründung,0.614,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00442,UNSTRUT-HAINICH-KREIS,Information und Kommunikation,Einzelunternehmen,0-9,Telefon,Recht,Erledigt,2.1,Recht,0.907,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00443,Unstrut-Hainich-Kreis,Information und Kommunikation,Einzelunternehmen,0-9,Webformular,Gründung,Erledigt,1.6,Gründung,0.851,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00444,Unstrut-Hainich-Kreis,Handel/Kfz,Einzelunternehmen,10-49,E-Mail,Außenwirtschaft,Erledigt,1.3,Außenwirtschaft,0.801,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00445,UNSTRUT-HAINICH-KREIS,Handel/Kfz,Einzelunternehmen,10-49,E-Mail,Ausbildung,Erledigt,0.3,Ausbildung,0.695,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00446,Unstrut-Hainich-Kreis,Sonstige Wirtschaftsbereiche,Personengesellschaft,0-9,E-Mail,Gründung,Erledigt,0.3,Gründung,0.895,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00447,Unstrut-Hainich-Kreis,Information und Kommunikation,Einzelunternehmen,0-9,Telefon,Gründung,Erledigt,1.1,Gründung,0.947,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00448,Unstrut-Hainich-Kreis,Handel/Kfz,Personengesellschaft,0-9,Telefon,Digitalisierung,Offen,,Digitalisierung,0.893,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00449,Unstrut-Hainich-Kreis,Finanz- und Versicherungsdienstleistungen,Personengesellschaft,10-49,E-Mail,Digitalisierung,Erledigt,0.8,Digitalisierung,0.818,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00450,Kyffhäuserkreis,Information und Kommunikation,Einzelunternehmen,0-9,Webformular,Digitalisierung,Erledigt,0.7,Digitalisierung,0.797,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00451,Kyffhäuserkreis,Gastgewerbe,Einzelunternehmen,0-9,E-Mail,Ausbildung,Erledigt,2.7,Ausbildung,0.94,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00452,Kyffhäuserkreis,Sonstige Wirtschaftsbereiche,Einzelunternehmen,10-49,Persönlich,Finanzierung,Erledigt,1.9,Finanzierung,0.815,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00453,Kyffhäuserkreis,Sonstige Wirtschaftsbereiche,Einzelunternehmen,10-49,E-Mail,Ausbildung,Erledigt,1.2,Ausbildung,0.876,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00454,Kyffhäuserkreis,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,E-Mail,Gründung,Offen,,Gründung,0.813,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00455,Kyffhäuserkreis,Information und Kommunikation,Einzelunternehmen,10-49,E-Mail,Digitalisierung,Erledigt,1.1,Digitalisierung,0.952,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00456,Kyffhäuserkreis,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,Telefon,Gründung,Erledigt,0.6,Gründung,0.946,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00457,Kyffhäuserkreis,Handel/Kfz,Einzelunternehmen,0-9,E-Mail,Außenwirtschaft,Erledigt,2.9,Außenwirtschaft,0.64,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00458,Kyffhäuserkreis,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,Telefon,Recht,Erledigt,3.2,Recht,0.982,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00459,Kyffhäuserkreis,,Einzelunternehmen,0-9,E-Mail,Gründung,Erledigt,0.4,Gründung,0.868,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00460,Kyffhäuserkreis,,Einzelunternehmen,10-49,Webformular,Außenwirtschaft,Erledigt,0.8,Außenwirtschaft,0.949,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00461,Kyffhäuserkreis,Verarbeitendes Gewerbe,Einzelunternehmen,0-9,Telefon,Finanzierung,Erledigt,0.5,Finanzierung,0.865,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00462,Kyffhäuserkreis,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Einzelunternehmen,0-9,Webformular,Recht,Erledigt,1.2,Recht,0.621,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00463,Kyffhäuserkreis,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,E-Mail,Digitalisierung,Erledigt,0.9,Digitalisierung,0.662,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00464,Kyffhäuserkreis,Verkehr und Lagerei,Einzelunternehmen,0-9,Telefon,Außenwirtschaft,Erledigt,2.5,Außenwirtschaft,0.934,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00465,Kyffhäuserkreis,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,Telefon,Recht,Erledigt,0.8,Recht,0.907,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00466,KYFFHÄUSERKREIS,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,0-9,Telefon,Ausbildung,Erledigt,1.0,Ausbildung,0.945,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00467,Kyffhäuserkreis,Verkehr und Lagerei,Einzelunternehmen,0-9,E-Mail,Digitalisierung,Erledigt,0.5,Digitalisierung,0.896,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00468,Kyffhäuserkreis,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,Telefon,Gründung,Erledigt,1.2,Gründung,0.762,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00469,Schmalkalden-Meiningen,Handel/Kfz,Einzelunternehmen,0-9,Telefon,Finanzierung,Erledigt,0.7,Finanzierung,0.862,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00470,Schmalkalden-Meiningen,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,Webformular,Ausbildung,Erledigt,1.0,Ausbildung,0.941,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00471,Schmalkalden-Meiningen,Information und Kommunikation,Juristische Person,50-249,Telefon,Finanzierung,Erledigt,2.9,Finanzierung,0.897,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00472,Schmalkalden-Meiningen,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,E-Mail,Gründung,Erledigt,0.5,Gründung,0.997,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00473,Schmalkalden-Meiningen,Handel/Kfz,Einzelunternehmen,0-9,E-Mail,Ausbildung,Erledigt,3.2,Ausbildung,0.802,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00474,Schmalkalden-Meiningen,Handel/Kfz,Einzelunternehmen,0-9,Webformular,Recht,In Bearbeitung,,Recht,0.968,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00475,Schmalkalden-Meiningen,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Einzelunternehmen,10-49,E-Mail,Gründung,Erledigt,1.1,Gründung,0.659,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00476,Schmalkalden-Meiningen,Handel/Kfz,Einzelunternehmen,0-9,Webformular,Recht,Erledigt,3.6,Recht,0.813,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00477,Schmalkalden-Meiningen,Gastgewerbe,Personengesellschaft,0-9,Telefon,Gründung,Offen,,Gründung,0.849,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00478,Schmalkalden-Meiningen,Handel/Kfz,Einzelunternehmen,10-49,E-Mail,Ausbildung,In Bearbeitung,,Ausbildung,0.827,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00479,Schmalkalden-Meiningen,Handel/Kfz,Einzelunternehmen,0-9,Telefon,Außenwirtschaft,In Bearbeitung,,Außenwirtschaft,0.872,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00480,Schmalkalden-Meiningen,Verkehr und Lagerei,Juristische Person,0-9,E-Mail,Finanzierung,Erledigt,2.4,Finanzierung,0.873,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00481,Schmalkalden-Meiningen,Gastgewerbe,Einzelunternehmen,0-9,Telefon,Finanzierung,Erledigt,1.2,Finanzierung,0.815,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00482,Schmalkalden-Meiningen,Information und Kommunikation,Einzelunternehmen,0-9,Telefon,Gründung,Erledigt,1.9,Gründung,0.76,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00483,Schmalkalden-Meiningen,Gastgewerbe,Einzelunternehmen,0-9,Telefon,Recht,Erledigt,0.7,Recht,0.868,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00484,Schmalkalden-Meiningen,,Einzelunternehmen,0-9,E-Mail,Gründung,Offen,,Gründung,0.961,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00485,SCHMALKALDEN-MEININGEN,Sonstige Wirtschaftsbereiche,Einzelunternehmen,10-49,E-Mail,Recht,Erledigt,1.2,Recht,0.868,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00486,Schmalkalden-Meiningen,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,10-49,Webformular,Ausbildung,In Bearbeitung,,Ausbildung,0.901,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00487,Schmalkalden-Meiningen,Handel/Kfz,Einzelunternehmen,0-9,Telefon,Ausbildung,Erledigt,1.8,Ausbildung,0.717,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00488,Schmalkalden-Meiningen,Handel/Kfz,Einzelunternehmen,0-9,E-Mail,Recht,Erledigt,1.6,Recht,0.813,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00489,Schmalkalden-Meiningen,Gastgewerbe,Einzelunternehmen,0-9,E-Mail,Ausbildung,Erledigt,1.5,Ausbildung,0.737,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00490,Schmalkalden-Meiningen,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Einzelunternehmen,0-9,E-Mail,Ausbildung,Offen,,Ausbildung,0.761,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00491,Schmalkalden-Meiningen,Handel/Kfz,Einzelunternehmen,0-9,E-Mail,Ausbildung,Erledigt,1.0,Ausbildung,0.958,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00492,Schmalkalden-Meiningen,Verarbeitendes Gewerbe,Einzelunternehmen,0-9,Telefon,Digitalisierung,Erledigt,1.5,Digitalisierung,0.871,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00493,Schmalkalden-Meiningen,Verkehr und Lagerei,Einzelunternehmen,0-9,E-Mail,Außenwirtschaft,Erledigt,1.4,Außenwirtschaft,0.917,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00494,Schmalkalden-Meiningen,Handel/Kfz,Einzelunternehmen,0-9,E-Mail,Digitalisierung,Erledigt,1.9,Digitalisierung,0.611,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00495,Schmalkalden-Meiningen,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Einzelunternehmen,0-9,Webformular,Gründung,Erledigt,2.0,Gründung,0.886,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00496,Schmalkalden-Meiningen,Handel/Kfz,Einzelunternehmen,0-9,Telefon,Recht,Erledigt,1.7,Recht,0.838,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00497,Schmalkalden-Meiningen,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,0-9,E-Mail,Ausbildung,Erledigt,1.2,Ausbildung,0.711,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00498,Schmalkalden-Meiningen,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,0-9,Webformular,Recht,Erledigt,2.3,Recht,0.832,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00499,Schmalkalden-Meiningen,Finanz- und Versicherungsdienstleistungen,Einzelunternehmen,0-9,E-Mail,Gründung,Erledigt,4.8,Gründung,0.912,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00500,Schmalkalden-Meiningen,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Einzelunternehmen,0-9,E-Mail,Digitalisierung,Erledigt,0.4,Digitalisierung,0.833,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00501,Schmalkalden-Meiningen,Information und Kommunikation,Einzelunternehmen,0-9,Persönlich,Recht,In Bearbeitung,,Recht,0.686,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00502,Schmalkalden-Meiningen,Information und Kommunikation,Juristische Person,0-9,Telefon,Ausbildung,Erledigt,2.0,Ausbildung,0.755,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00503,Schmalkalden-Meiningen,Baugewerbe,Juristische Person,0-9,E-Mail,Recht,Offen,,Recht,0.839,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00504,Schmalkalden-Meiningen,Baugewerbe,Einzelunternehmen,0-9,Webformular,Recht,Erledigt,3.0,Recht,0.809,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00505,Schmalkalden-Meiningen,Handel/Kfz,Einzelunternehmen,0-9,Webformular,Ausbildung,Erledigt,4.1,Ausbildung,0.903,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00506,Schmalkalden-Meiningen,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Einzelunternehmen,0-9,E-Mail,Recht,Erledigt,3.9,Recht,0.866,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00507,Schmalkalden-Meiningen,Sonstige Wirtschaftsbereiche,Einzelunternehmen,10-49,Telefon,Digitalisierung,Offen,,Digitalisierung,0.943,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00508,Schmalkalden-Meiningen,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Juristische Person,0-9,E-Mail,Recht,Erledigt,2.5,Recht,0.856,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00509,Schmalkalden-Meiningen,Handel/Kfz,Einzelunternehmen,0-9,Telefon,Finanzierung,Erledigt,0.6,Finanzierung,0.958,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00510,Schmalkalden-Meiningen,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,0-9,E-Mail,Digitalisierung,Erledigt,2.4,Digitalisierung,0.919,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00511,Schmalkalden-Meiningen,Handel/Kfz,Einzelunternehmen,0-9,Telefon,Recht,Erledigt,1.5,Recht,0.865,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00512,Schmalkalden-Meiningen,Sonstige Wirtschaftsbereiche,Einzelunternehmen,10-49,E-Mail,Ausbildung,Erledigt,0.9,Ausbildung,0.866,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00513,Schmalkalden-Meiningen,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Einzelunternehmen,0-9,E-Mail,Ausbildung,Erledigt,1.9,Ausbildung,0.889,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00514,SCHMALKALDEN-MEININGEN,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Einzelunternehmen,10-49,Telefon,Finanzierung,Erledigt,2.5,Finanzierung,0.852,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00515,Schmalkalden-Meiningen,Sonstige Wirtschaftsbereiche,Einzelunternehmen,10-49,E-Mail,Recht,Erledigt,1.3,Recht,0.957,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00516,Schmalkalden-Meiningen,Verarbeitendes Gewerbe,Einzelunternehmen,0-9,E-Mail,Ausbildung,Erledigt,2.2,Ausbildung,0.952,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00517,Schmalkalden-Meiningen,Gastgewerbe,Einzelunternehmen,10-49,Telefon,Finanzierung,Erledigt,2.9,Finanzierung,0.747,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00518,Gotha,Verarbeitendes Gewerbe,Einzelunternehmen,0-9,Telefon,Digitalisierung,Erledigt,0.6,Digitalisierung,0.953,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00519,Gotha,Handel/Kfz,Einzelunternehmen,0-9,Persönlich,Digitalisierung,Erledigt,1.3,Digitalisierung,0.881,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00520,Gotha,Handel/Kfz,Einzelunternehmen,0-9,E-Mail,Ausbildung,Offen,,Ausbildung,0.948,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00521,Gotha,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,0-9,E-Mail,Finanzierung,Erledigt,2.5,Finanzierung,0.948,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00522,Gotha,Gastgewerbe,Einzelunternehmen,0-9,E-Mail,Ausbildung,In Bearbeitung,,Ausbildung,0.93,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00523,Gotha,Sonstige Wirtschaftsbereiche,Juristische Person,50-249,E-Mail,Gründung,Erledigt,3.6,Gründung,0.879,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00524,Gotha,Information und Kommunikation,Einzelunternehmen,0-9,Telefon,Ausbildung,done,3.2,Ausbildung,0.943,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00525,GOTHA,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Juristische Person,0-9,Persönlich,Ausbildung,Erledigt,1.3,Ausbildung,0.82,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00526,Gotha,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Einzelunternehmen,10-49,Telefon,Ausbildung,Erledigt,1.3,Ausbildung,0.958,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00527,Gotha,Handel/Kfz,Einzelunternehmen,0-9,E-Mail,Finanzierung,Offen,,Finanzierung,0.945,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00528,Gotha,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,Persönlich,Gründung,Erledigt,0.5,Gründung,0.933,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00529,Gotha,Gastgewerbe,Einzelunternehmen,0-9,Webformular,Finanzierung,Offen,,Finanzierung,0.882,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00530,Gotha,Handel/Kfz,Einzelunternehmen,0-9,E-Mail,Außenwirtschaft,Erledigt,1.7,Außenwirtschaft,0.625,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00531,Gotha,Handel/Kfz,Einzelunternehmen,0-9,Telefon,Ausbildung,Erledigt,2.2,Ausbildung,0.782,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00532,Gotha,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,E-Mail,Ausbildung,In Bearbeitung,,Ausbildung,0.664,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00533,Gotha,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,E-Mail,Gründung,Erledigt,3.1,Gründung,0.753,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00534,Gotha,Sonstige Wirtschaftsbereiche,Einzelunternehmen,10-49,Webformular,Digitalisierung,Erledigt,2.5,Digitalisierung,0.931,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00535,Gotha,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,0-9,Persönlich,Digitalisierung,Erledigt,3.3,Digitalisierung,0.797,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00536,Gotha,Sonstige Wirtschaftsbereiche,Juristische Person,10-49,E-Mail,Digitalisierung,Erledigt,0.3,Digitalisierung,0.823,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00537,Gotha,Sonstige Wirtschaftsbereiche,Juristische Person,10-49,Telefon,Recht,Erledigt,0.4,Recht,0.965,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00538,Gotha,Finanz- und Versicherungsdienstleistungen,Juristische Person,0-9,Telefon,Finanzierung,Erledigt,0.8,Finanzierung,0.841,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00539,Gotha,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,Telefon,Ausbildung,Offen,,Ausbildung,0.901,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00540,Gotha,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Einzelunternehmen,0-9,Telefon,Recht,Erledigt,1.1,Recht,0.75,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00541,Gotha,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,E-Mail,Gründung,Offen,,Gründung,0.805,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00542,Gotha,Verarbeitendes Gewerbe,Einzelunternehmen,0-9,Telefon,Außenwirtschaft,Erledigt,0.7,Außenwirtschaft,0.969,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00543,Gotha,Verkehr und Lagerei,Einzelunternehmen,0-9,E-Mail,Ausbildung,Erledigt,1.8,Ausbildung,0.834,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00544,Gotha,Finanz- und Versicherungsdienstleistungen,Juristische Person,0-9,Telefon,Gründung,Erledigt,3.1,Gründung,0.896,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00545,Gotha,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Einzelunternehmen,0-9,Persönlich,Digitalisierung,Erledigt,5.4,Digitalisierung,0.915,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00546,Gotha,Sonstige Wirtschaftsbereiche,Einzelunternehmen,10-49,E-Mail,Digitalisierung,Erledigt,1.5,Digitalisierung,0.932,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00547,Gotha,Information und Kommunikation,Einzelunternehmen,0-9,Telefon,Recht,Erledigt,1.2,Recht,0.905,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00548,Gotha,Verarbeitendes Gewerbe,Einzelunternehmen,10-49,E-Mail,Ausbildung,Erledigt,0.6,Ausbildung,0.982,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00549,Gotha,Sonstige Wirtschaftsbereiche,Juristische Person,0-9,Webformular,Finanzierung,Erledigt,1.9,Finanzierung,0.933,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00550,Gotha,Information und Kommunikation,Einzelunternehmen,50-249,Webformular,Digitalisierung,Erledigt,1.9,Digitalisierung,0.793,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00551,Gotha,,Personengesellschaft,0-9,E-Mail,Gründung,Erledigt,3.1,Gründung,0.906,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00552,Gotha,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,E-Mail,Recht,Erledigt,1.0,Recht,0.94,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00553,Gotha,Information und Kommunikation,Einzelunternehmen,0-9,Telefon,Gründung,Erledigt,2.3,Gründung,0.891,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00554,Gotha,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,Telefon,Recht,Erledigt,1.6,Recht,0.882,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00555,Gotha,Information und Kommunikation,Juristische Person,0-9,Telefon,Digitalisierung,In Bearbeitung,,Digitalisierung,0.967,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00556,Gotha,Handel/Kfz,Einzelunternehmen,0-9,Telefon,Ausbildung,Erledigt,8.1,Ausbildung,0.911,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00557,Gotha,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Einzelunternehmen,0-9,E-Mail,Digitalisierung,Offen,,Digitalisierung,0.951,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00558,Gotha,Verkehr und Lagerei,Juristische Person,0-9,Telefon,Recht,In Bearbeitung,,Recht,0.9,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00559,Gotha,,Juristische Person,0-9,Telefon,Gründung,Erledigt,1.0,Gründung,0.915,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00560,Gotha,Handel/Kfz,Einzelunternehmen,10-49,Telefon,Finanzierung,Erledigt,0.7,Finanzierung,0.841,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00561,Gotha,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,Webformular,Finanzierung,Erledigt,1.3,Finanzierung,0.9,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00562,Gotha,Sonstige wirtschaftliche Dienstleistungen,Juristische Person,0-9,E-Mail,Recht,Erledigt,2.8,Recht,0.791,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00563,Gotha,Verarbeitendes Gewerbe,Einzelunternehmen,0-9,Persönlich,Außenwirtschaft,Erledigt,2.3,Außenwirtschaft,0.802,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00564,Gotha,Baugewerbe,Einzelunternehmen,0-9,E-Mail,Recht,In Bearbeitung,,Recht,0.963,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00565,Gotha,Information und Kommunikation,Juristische Person,10-49,E-Mail,Ausbildung,done,0.8,Ausbildung,0.738,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00566,Gotha,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,0-9,E-Mail,Recht,Erledigt,2.0,Recht,0.842,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00567,Gotha,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Personengesellschaft,0-9,Webformular,Gründung,Erledigt,1.5,Gründung,0.858,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00568,Gotha,Handel/Kfz,Einzelunternehmen,0-9,Webformular,Ausbildung,Erledigt,2.7,Ausbildung,0.91,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00569,Gotha,Information und Kommunikation,Einzelunternehmen,10-49,E-Mail,Gründung,Erledigt,2.0,Gründung,0.808,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00570,Gotha,Finanz- und Versicherungsdienstleistungen,Einzelunternehmen,0-9,E-Mail,Digitalisierung,Offen,,Digitalisierung,0.907,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00571,Gotha,Information und Kommunikation,Einzelunternehmen,0-9,E-Mail,Finanzierung,Erledigt,4.9,Finanzierung,0.929,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00572,Gotha,Verarbeitendes Gewerbe,Juristische Person,0-9,E-Mail,Recht,In Bearbeitung,,Recht,0.836,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00573,Gotha,Information und Kommunikation,Personengesellschaft,0-9,Telefon,Digitalisierung,In Bearbeitung,,Digitalisierung,0.929,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00574,Gotha,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Einzelunternehmen,10-49,Telefon,Digitalisierung,Erledigt,0.3,Digitalisierung,0.791,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00575,Gotha,Gastgewerbe,Juristische Person,10-49,E-Mail,Ausbildung,Erledigt,1.5,Ausbildung,0.845,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00576,Sömmerda,Gastgewerbe,Einzelunternehmen,0-9,Webformular,Ausbildung,Erledigt,1.3,Ausbildung,0.866,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00577,Sömmerda,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,0-9,E-Mail,Finanzierung,Erledigt,0.7,Finanzierung,0.912,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00578,Sömmerda,Handel/Kfz,Einzelunternehmen,0-9,E-Mail,Ausbildung,In Bearbeitung,,Ausbildung,0.845,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00579,Sömmerda,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,0-9,E-Mail,Ausbildung,Erledigt,0.8,Ausbildung,0.935,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00580,Sömmerda,Sonstige Wirtschaftsbereiche,Personengesellschaft,0-9,E-Mail,Digitalisierung,Erledigt,0.3,Digitalisierung,0.771,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00581,Sömmerda,Handel/Kfz,Einzelunternehmen,0-9,Persönlich,Recht,Erledigt,1.7,Recht,0.902,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00582,Sömmerda,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Juristische Person,0-9,Webformular,Ausbildung,Erledigt,0.3,Ausbildung,0.891,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00583,Sömmerda,Finanz- und Versicherungsdienstleistungen,Einzelunternehmen,0-9,E-Mail,Ausbildung,Erledigt,0.3,Ausbildung,0.73,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00584,Sömmerda,Information und Kommunikation,Einzelunternehmen,0-9,E-Mail,Digitalisierung,Erledigt,1.1,Digitalisierung,0.934,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00585,Sömmerda,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,10-49,Webformular,Digitalisierung,Erledigt,3.5,Digitalisierung,0.948,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00586,Sömmerda,Sonstige wirtschaftliche Dienstleistungen,Juristische Person,0-9,E-Mail,Recht,Erledigt,2.5,Recht,0.774,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00587,Sömmerda,Baugewerbe,Einzelunternehmen,0-9,E-Mail,Finanzierung,Erledigt,0.5,Finanzierung,0.937,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00588,Sömmerda,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,Webformular,Gründung,Offen,,Gründung,0.895,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00589,Sömmerda,Information und Kommunikation,Einzelunternehmen,0-9,Webformular,Digitalisierung,Erledigt,1.7,Digitalisierung,0.926,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00590,Sömmerda,Gastgewerbe,Juristische Person,0-9,Telefon,Gründung,Erledigt,1.8,Gründung,0.896,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00591,Sömmerda,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Einzelunternehmen,0-9,Telefon,Digitalisierung,Erledigt,1.7,Digitalisierung,0.927,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00592,Sömmerda,Handel/Kfz,Einzelunternehmen,0-9,E-Mail,Finanzierung,Erledigt,3.3,Finanzierung,0.975,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00593,Sömmerda,Baugewerbe,Einzelunternehmen,0-9,E-Mail,Gründung,Erledigt,4.2,Gründung,0.881,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00594,Sömmerda,Handel/Kfz,Einzelunternehmen,0-9,Webformular,Ausbildung,Erledigt,2.6,Ausbildung,0.882,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00595,Sömmerda,Sonstige wirtschaftliche Dienstleistungen,Juristische Person,10-49,E-Mail,Recht,Offen,,Recht,0.7,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00596,Sömmerda,Sonstige Wirtschaftsbereiche,Einzelunternehmen,10-49,E-Mail,Gründung,Erledigt,2.6,Gründung,0.758,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00597,Sömmerda,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,0-9,Telefon,Digitalisierung,Erledigt,0.5,Digitalisierung,0.941,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00598,Hildburghausen,"Land- und Forstwirtschaft, Fischerei",Einzelunternehmen,0-9,Webformular,Finanzierung,Erledigt,1.9,Finanzierung,0.722,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00599,Hildburghausen,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Personengesellschaft,0-9,Webformular,Digitalisierung,Erledigt,1.2,Digitalisierung,0.922,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00600,HILDBURGHAUSEN,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,0-9,Telefon,Gründung,In Bearbeitung,,Gründung,0.816,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00601,Hildburghausen,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,Webformular,Ausbildung,Erledigt,5.3,Ausbildung,0.604,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00602,Hildburghausen,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,0-9,Persönlich,Digitalisierung,Erledigt,0.3,Digitalisierung,0.773,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00603,Hildburghausen,Handel/Kfz,Einzelunternehmen,0-9,E-Mail,Ausbildung,Erledigt,0.3,Ausbildung,0.874,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00604,Hildburghausen,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Einzelunternehmen,0-9,Telefon,Gründung,Erledigt,0.3,Gründung,0.749,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00605,Hildburghausen,Verarbeitendes Gewerbe,Einzelunternehmen,0-9,Telefon,Außenwirtschaft,Erledigt,1.1,Außenwirtschaft,0.932,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00606,Hildburghausen,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,0-9,E-Mail,Digitalisierung,Erledigt,0.7,Digitalisierung,0.917,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00607,Hildburghausen,Handel/Kfz,Einzelunternehmen,0-9,E-Mail,Recht,Erledigt,1.2,Recht,0.841,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00608,Hildburghausen,Handel/Kfz,Einzelunternehmen,0-9,Webformular,Außenwirtschaft,Erledigt,2.3,Außenwirtschaft,0.874,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00609,Hildburghausen,Handel/Kfz,Einzelunternehmen,0-9,Telefon,Ausbildung,Erledigt,0.5,Ausbildung,0.866,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00610,Hildburghausen,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,0-9,E-Mail,Gründung,Erledigt,1.7,Gründung,0.85,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00611,Hildburghausen,Handel/Kfz,Einzelunternehmen,0-9,Telefon,Digitalisierung,Erledigt,1.0,Digitalisierung,0.855,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00612,Hildburghausen,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,0-9,E-Mail,Recht,Erledigt,3.8,Recht,0.889,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00613,Hildburghausen,Sonstige Wirtschaftsbereiche,Einzelunternehmen,10-49,E-Mail,Ausbildung,Erledigt,2.8,Ausbildung,0.905,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00614,Hildburghausen,Information und Kommunikation,Juristische Person,0-9,E-Mail,Digitalisierung,Erledigt,3.2,Digitalisierung,0.693,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00615,Hildburghausen,Information und Kommunikation,Einzelunternehmen,0-9,E-Mail,Gründung,Erledigt,1.2,Gründung,0.739,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00616,Hildburghausen,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,E-Mail,Digitalisierung,Erledigt,3.5,Digitalisierung,0.854,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00617,Hildburghausen,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Einzelunternehmen,0-9,Webformular,Digitalisierung,Offen,,Digitalisierung,0.85,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00618,Ilm-Kreis,Handel/Kfz,Juristische Person,0-9,Telefon,Recht,Offen,,Recht,0.851,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00619,Ilm-Kreis,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,Webformular,Digitalisierung,Erledigt,1.1,Digitalisierung,0.801,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00620,Ilm-Kreis,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,E-Mail,Gründung,Erledigt,1.8,Gründung,0.959,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00621,Ilm-Kreis,Sonstige wirtschaftliche Dienstleistungen,Juristische Person,0-9,E-Mail,Finanzierung,Erledigt,1.3,Finanzierung,0.872,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00622,Ilm-Kreis,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,Persönlich,Ausbildung,Erledigt,2.7,Ausbildung,0.937,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00623,Ilm-Kreis,Baugewerbe,Einzelunternehmen,0-9,E-Mail,Gründung,Erledigt,2.6,Gründung,0.872,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00624,Ilm-Kreis,Information und Kommunikation,Juristische Person,0-9,E-Mail,Recht,Erledigt,0.6,Recht,0.666,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00625,Ilm-Kreis,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,10-49,Telefon,Ausbildung,Offen,,Ausbildung,0.693,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00626,Ilm-Kreis,Gastgewerbe,Einzelunternehmen,0-9,Webformular,Digitalisierung,Offen,,Digitalisierung,0.902,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00627,Ilm-Kreis,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Einzelunternehmen,50-249,E-Mail,Recht,Erledigt,1.2,Recht,0.939,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00628,Ilm-Kreis,Information und Kommunikation,Einzelunternehmen,0-9,E-Mail,Gründung,Erledigt,1.5,Gründung,0.918,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00629,Ilm-Kreis,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,0-9,E-Mail,Ausbildung,Erledigt,2.2,Ausbildung,0.845,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00630,Ilm-Kreis,Gastgewerbe,Einzelunternehmen,0-9,Webformular,Finanzierung,Erledigt,2.2,Finanzierung,0.898,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00631,Ilm-Kreis,Gastgewerbe,Personengesellschaft,0-9,E-Mail,Ausbildung,Erledigt,1.1,Ausbildung,0.812,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00632,Ilm-Kreis,Sonstige Wirtschaftsbereiche,Juristische Person,0-9,E-Mail,Ausbildung,Erledigt,2.1,Ausbildung,0.723,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00633,Ilm-Kreis,Finanz- und Versicherungsdienstleistungen,Einzelunternehmen,0-9,Webformular,Ausbildung,Erledigt,1.2,Ausbildung,0.917,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00634,Ilm-Kreis,Handel/Kfz,Einzelunternehmen,0-9,E-Mail,Finanzierung,Erledigt,1.0,Finanzierung,0.936,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00635,Ilm-Kreis,Handel/Kfz,Einzelunternehmen,0-9,Webformular,Recht,Erledigt,0.6,Recht,0.67,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00636,Ilm-Kreis,Gastgewerbe,Einzelunternehmen,0-9,E-Mail,Digitalisierung,Erledigt,0.8,Digitalisierung,0.741,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00637,Ilm-Kreis,Gastgewerbe,Einzelunternehmen,0-9,Webformular,Gründung,Erledigt,2.4,Gründung,0.962,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00638,Ilm-Kreis,Sonstige wirtschaftliche Dienstleistungen,Juristische Person,0-9,Webformular,Recht,Erledigt,1.2,Recht,0.772,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00639,Ilm-Kreis,Baugewerbe,Einzelunternehmen,0-9,Webformular,Digitalisierung,Erledigt,2.0,Digitalisierung,0.902,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00640,Ilm-Kreis,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,Webformular,Digitalisierung,Erledigt,3.5,Digitalisierung,0.682,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00641,Ilm-Kreis,Information und Kommunikation,Einzelunternehmen,0-9,Telefon,Digitalisierung,Erledigt,0.6,Digitalisierung,0.924,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00642,Ilm-Kreis,Handel/Kfz,Einzelunternehmen,0-9,Webformular,Ausbildung,Offen,,Ausbildung,0.918,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00643,Ilm-Kreis,Sonstige Wirtschaftsbereiche,Juristische Person,250+,Webformular,Gründung,Erledigt,2.7,Gründung,0.877,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00644,Ilm-Kreis,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,0-9,Webformular,Digitalisierung,Erledigt,2.3,Digitalisierung,0.556,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00645,ILM-KREIS,Handel/Kfz,Einzelunternehmen,0-9,Webformular,Außenwirtschaft,Erledigt,0.9,Außenwirtschaft,0.889,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00646,Ilm-Kreis,Verarbeitendes Gewerbe,Einzelunternehmen,50-249,Persönlich,Recht,Erledigt,1.2,Recht,0.858,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00647,Ilm-Kreis,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Einzelunternehmen,0-9,Webformular,Ausbildung,Erledigt,0.9,Ausbildung,0.98,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00648,Ilm-Kreis,Handel/Kfz,Einzelunternehmen,10-49,Webformular,Finanzierung,Erledigt,1.1,Finanzierung,0.747,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00649,Ilm-Kreis,Handel/Kfz,Juristische Person,0-9,Webformular,Ausbildung,Erledigt,2.3,Ausbildung,0.667,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00650,Ilm-Kreis,Handel/Kfz,Einzelunternehmen,0-9,E-Mail,Recht,Erledigt,0.3,Recht,0.908,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00651,Ilm-Kreis,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,Persönlich,Recht,Erledigt,1.2,Recht,0.872,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00652,Ilm-Kreis,Handel/Kfz,Einzelunternehmen,0-9,E-Mail,Recht,Erledigt,0.4,Recht,0.916,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00653,Ilm-Kreis,Gastgewerbe,Personengesellschaft,0-9,Telefon,Gründung,Erledigt,1.4,Gründung,0.681,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00654,Ilm-Kreis,,Einzelunternehmen,0-9,Webformular,Ausbildung,Erledigt,0.8,Ausbildung,0.966,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00655,Ilm-Kreis,Handel/Kfz,Einzelunternehmen,10-49,Telefon,Recht,done,0.4,Recht,0.913,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00656,Ilm-Kreis,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Juristische Person,10-49,Telefon,Finanzierung,Erledigt,2.5,Finanzierung,0.966,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00657,Ilm-Kreis,Verarbeitendes Gewerbe,Einzelunternehmen,0-9,Webformular,Außenwirtschaft,Erledigt,5.4,Außenwirtschaft,0.94,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00658,Ilm-Kreis,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,10-49,Telefon,Digitalisierung,Erledigt,0.2,Digitalisierung,0.907,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00659,Ilm-Kreis,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Personengesellschaft,0-9,E-Mail,Digitalisierung,Erledigt,3.7,Digitalisierung,0.801,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00660,Weimarer Land,Gastgewerbe,Einzelunternehmen,0-9,Persönlich,Gründung,Erledigt,0.2,Gründung,0.799,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00661,Weimarer Land,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,Webformular,Recht,In Bearbeitung,,Recht,0.797,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00662,Weimarer Land,Handel/Kfz,Einzelunternehmen,0-9,Webformular,Recht,Erledigt,1.6,Recht,0.977,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00663,Weimarer Land,Information und Kommunikation,Einzelunternehmen,0-9,E-Mail,Digitalisierung,Erledigt,1.0,Digitalisierung,0.671,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00664,Weimarer Land,Handel/Kfz,Einzelunternehmen,0-9,E-Mail,Außenwirtschaft,Erledigt,1.4,Außenwirtschaft,0.714,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00665,Weimarer Land,Verarbeitendes Gewerbe,Einzelunternehmen,0-9,Telefon,Digitalisierung,Erledigt,0.2,Digitalisierung,0.792,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00666,Weimarer Land,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,0-9,Webformular,Gründung,done,3.2,Gründung,0.925,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00667,Weimarer Land,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,E-Mail,Gründung,Erledigt,3.7,Gründung,0.728,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00668,Weimarer Land,Gastgewerbe,Einzelunternehmen,0-9,Webformular,Ausbildung,Erledigt,1.1,Ausbildung,0.888,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00669,Weimarer Land,Handel/Kfz,Einzelunternehmen,0-9,E-Mail,Finanzierung,Erledigt,1.2,Finanzierung,0.842,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00670,Weimarer Land,Information und Kommunikation,Einzelunternehmen,10-49,E-Mail,Digitalisierung,Erledigt,1.1,Digitalisierung,0.906,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00671,Weimarer Land,Sonstige wirtschaftliche Dienstleistungen,Juristische Person,0-9,Telefon,Gründung,Erledigt,2.0,Gründung,0.978,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00672,Weimarer Land,Finanz- und Versicherungsdienstleistungen,Einzelunternehmen,50-249,Webformular,Ausbildung,Erledigt,1.6,Ausbildung,0.882,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00673,Weimarer Land,Information und Kommunikation,Einzelunternehmen,10-49,Webformular,Gründung,Erledigt,1.5,Gründung,0.644,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00674,WEIMARER LAND,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Einzelunternehmen,0-9,Webformular,Gründung,In Bearbeitung,,Gründung,0.952,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00675,Weimarer Land,Finanz- und Versicherungsdienstleistungen,Einzelunternehmen,0-9,Telefon,Ausbildung,Erledigt,0.3,Ausbildung,0.962,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00676,Weimarer Land,Gastgewerbe,Einzelunternehmen,0-9,Telefon,Gründung,Erledigt,0.6,Gründung,0.895,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00677,Weimarer Land,Handel/Kfz,Einzelunternehmen,0-9,Webformular,Außenwirtschaft,Erledigt,1.9,Außenwirtschaft,0.734,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00678,WEIMARER LAND,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,Telefon,Gründung,Erledigt,0.3,Gründung,0.836,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00679,Weimarer Land,Gastgewerbe,Einzelunternehmen,0-9,Telefon,Gründung,Erledigt,1.3,Gründung,0.828,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00680,Weimarer Land,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Juristische Person,10-49,Telefon,Digitalisierung,Erledigt,5.2,Digitalisierung,0.904,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00681,Weimarer Land,Sonstige Wirtschaftsbereiche,Einzelunternehmen,10-49,Telefon,Gründung,Erledigt,0.6,Gründung,0.965,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00682,Weimarer Land,Sonstige Wirtschaftsbereiche,Einzelunternehmen,10-49,Telefon,Ausbildung,Erledigt,2.1,Ausbildung,0.824,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00683,WEIMARER LAND,Information und Kommunikation,Einzelunternehmen,0-9,Telefon,Gründung,Erledigt,0.5,Gründung,0.922,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00684,Weimarer Land,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Einzelunternehmen,0-9,E-Mail,Gründung,In Bearbeitung,,Gründung,0.944,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00685,Weimarer Land,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,0-9,Telefon,Gründung,done,3.1,Gründung,0.703,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00686,Weimarer Land,Information und Kommunikation,Einzelunternehmen,0-9,Telefon,Digitalisierung,Erledigt,2.5,Digitalisierung,0.83,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00687,Weimarer Land,Gastgewerbe,Einzelunternehmen,0-9,E-Mail,Recht,Erledigt,1.4,Recht,0.94,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00688,Sonneberg,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,0-9,E-Mail,Digitalisierung,Erledigt,1.0,Digitalisierung,0.817,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00689,Sonneberg,Sonstige Wirtschaftsbereiche,Personengesellschaft,0-9,E-Mail,Ausbildung,Erledigt,0.8,Ausbildung,0.898,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00690,Sonneberg,Sonstige Wirtschaftsbereiche,Einzelunternehmen,50-249,E-Mail,Ausbildung,Erledigt,1.8,Ausbildung,0.656,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00691,Sonneberg,Sonstige wirtschaftliche Dienstleistungen,Juristische Person,10-49,Webformular,Digitalisierung,Erledigt,1.0,Digitalisierung,0.982,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00692,Sonneberg,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,Persönlich,Recht,Erledigt,2.3,Recht,0.922,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00693,Sonneberg,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Einzelunternehmen,0-9,Telefon,Recht,Erledigt,1.9,Recht,0.958,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00694,Sonneberg,Baugewerbe,Einzelunternehmen,10-49,Webformular,Finanzierung,Erledigt,1.6,Finanzierung,0.957,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00695,Sonneberg,Handel/Kfz,Einzelunternehmen,0-9,E-Mail,Außenwirtschaft,Erledigt,1.9,Außenwirtschaft,0.879,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00696,Sonneberg,Verarbeitendes Gewerbe,Juristische Person,0-9,Telefon,Digitalisierung,Erledigt,0.2,Digitalisierung,0.928,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00697,Sonneberg,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Einzelunternehmen,0-9,E-Mail,Ausbildung,Erledigt,2.5,Ausbildung,0.837,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00698,Sonneberg,Sonstige Wirtschaftsbereiche,Einzelunternehmen,10-49,Telefon,Gründung,Erledigt,2.3,Gründung,0.813,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00699,Sonneberg,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,10-49,Telefon,Digitalisierung,Erledigt,1.8,Digitalisierung,0.828,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00700,Sonneberg,"Land- und Forstwirtschaft, Fischerei",Einzelunternehmen,0-9,E-Mail,Ausbildung,Erledigt,0.3,Ausbildung,0.813,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00701,Sonneberg,Verarbeitendes Gewerbe,Juristische Person,0-9,E-Mail,Digitalisierung,Erledigt,0.5,Digitalisierung,0.874,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00702,Sonneberg,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Juristische Person,0-9,Persönlich,Recht,Erledigt,1.0,Recht,0.889,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00703,SONNEBERG,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,0-9,Webformular,Recht,Erledigt,3.2,Recht,0.817,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00704,Sonneberg,Handel/Kfz,Einzelunternehmen,10-49,Telefon,Ausbildung,Erledigt,2.9,Ausbildung,0.739,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00705,Sonneberg,Handel/Kfz,Einzelunternehmen,0-9,Telefon,Ausbildung,In Bearbeitung,,Ausbildung,0.825,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00706,Sonneberg,Handel/Kfz,Einzelunternehmen,0-9,Telefon,Außenwirtschaft,Erledigt,1.3,Außenwirtschaft,0.979,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00707,SONNEBERG,Verarbeitendes Gewerbe,Juristische Person,10-49,Persönlich,Außenwirtschaft,In Bearbeitung,,Außenwirtschaft,0.808,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00708,Sonneberg,Information und Kommunikation,Einzelunternehmen,10-49,Telefon,Recht,Erledigt,1.8,Recht,0.969,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00709,Saalfeld-Rudolstadt,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,Persönlich,Recht,Erledigt,0.4,Recht,0.739,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00710,Saalfeld-Rudolstadt,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,Webformular,Digitalisierung,Erledigt,2.4,Digitalisierung,0.85,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00711,Saalfeld-Rudolstadt,Finanz- und Versicherungsdienstleistungen,Einzelunternehmen,0-9,Telefon,Ausbildung,Erledigt,1.5,Ausbildung,0.781,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00712,Saalfeld-Rudolstadt,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,10-49,Webformular,Gründung,Erledigt,2.2,Gründung,0.733,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00713,Saalfeld-Rudolstadt,Information und Kommunikation,Einzelunternehmen,0-9,Webformular,Gründung,In Bearbeitung,,Gründung,0.903,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00714,Saalfeld-Rudolstadt,Verkehr und Lagerei,Einzelunternehmen,0-9,Webformular,Recht,Erledigt,0.4,Recht,0.94,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00715,Saalfeld-Rudolstadt,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,E-Mail,Finanzierung,Erledigt,0.5,Finanzierung,0.881,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00716,Saalfeld-Rudolstadt,Sonstige Wirtschaftsbereiche,Juristische Person,0-9,E-Mail,Digitalisierung,Erledigt,1.4,Digitalisierung,0.958,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00717,Saalfeld-Rudolstadt,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,0-9,Telefon,Recht,Erledigt,0.9,Recht,0.81,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00718,Saalfeld-Rudolstadt,Handel/Kfz,Einzelunternehmen,0-9,Webformular,Ausbildung,Offen,,Ausbildung,0.949,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00719,Saalfeld-Rudolstadt,Baugewerbe,Einzelunternehmen,50-249,E-Mail,Gründung,In Bearbeitung,,Gründung,0.888,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00720,Saalfeld-Rudolstadt,Finanz- und Versicherungsdienstleistungen,Einzelunternehmen,0-9,Webformular,Finanzierung,Erledigt,2.1,Finanzierung,0.782,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00721,Saalfeld-Rudolstadt,Verarbeitendes Gewerbe,Personengesellschaft,10-49,E-Mail,Ausbildung,Erledigt,3.1,Ausbildung,0.846,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00722,Saalfeld-Rudolstadt,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Einzelunternehmen,0-9,E-Mail,Recht,Erledigt,0.4,Recht,0.681,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00723,Saalfeld-Rudolstadt,Verarbeitendes Gewerbe,Einzelunternehmen,0-9,Persönlich,Finanzierung,Erledigt,2.0,Finanzierung,0.921,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00724,SAALFELD-RUDOLSTADT,Finanz- und Versicherungsdienstleistungen,Einzelunternehmen,0-9,Telefon,Finanzierung,Erledigt,1.9,Finanzierung,0.93,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00725,Saalfeld-Rudolstadt,Verkehr und Lagerei,Einzelunternehmen,0-9,Persönlich,Finanzierung,Erledigt,2.8,Finanzierung,0.75,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00726,Saalfeld-Rudolstadt,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,0-9,E-Mail,Gründung,Erledigt,2.5,Gründung,0.776,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00727,Saalfeld-Rudolstadt,Gastgewerbe,Einzelunternehmen,0-9,Telefon,Digitalisierung,Erledigt,1.1,Digitalisierung,0.938,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00728,Saalfeld-Rudolstadt,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Einzelunternehmen,0-9,Telefon,Gründung,Erledigt,1.7,Gründung,0.932,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00729,Saalfeld-Rudolstadt,Information und Kommunikation,Juristische Person,0-9,Telefon,Ausbildung,Erledigt,0.5,Ausbildung,0.845,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00730,Saalfeld-Rudolstadt,Verarbeitendes Gewerbe,Einzelunternehmen,0-9,Persönlich,Recht,In Bearbeitung,,Recht,0.932,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00731,Saalfeld-Rudolstadt,Baugewerbe,Juristische Person,0-9,Telefon,Recht,Erledigt,1.1,Recht,0.962,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00732,Saalfeld-Rudolstadt,Gastgewerbe,Einzelunternehmen,0-9,Telefon,Gründung,Erledigt,1.8,Gründung,0.935,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00733,Saalfeld-Rudolstadt,Gastgewerbe,Einzelunternehmen,0-9,Persönlich,Gründung,Erledigt,0.4,Gründung,0.763,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00734,Saalfeld-Rudolstadt,Information und Kommunikation,Einzelunternehmen,0-9,E-Mail,Recht,In Bearbeitung,,Recht,0.961,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00735,Saalfeld-Rudolstadt,Handel/Kfz,Personengesellschaft,0-9,Telefon,Finanzierung,Erledigt,1.4,Finanzierung,0.833,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00736,Saalfeld-Rudolstadt,Handel/Kfz,Einzelunternehmen,0-9,E-Mail,Ausbildung,Offen,,Ausbildung,0.89,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00737,Saalfeld-Rudolstadt,Sonstige Wirtschaftsbereiche,Einzelunternehmen,10-49,Persönlich,Finanzierung,Erledigt,0.9,Finanzierung,0.939,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00738,Saalfeld-Rudolstadt,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,10-49,Telefon,Ausbildung,Erledigt,0.8,Ausbildung,0.964,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00739,Saalfeld-Rudolstadt,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Einzelunternehmen,0-9,E-Mail,Digitalisierung,done,2.0,Digitalisierung,0.92,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00740,Saalfeld-Rudolstadt,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,0-9,E-Mail,Recht,Erledigt,1.8,Recht,0.942,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00741,Saalfeld-Rudolstadt,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,0-9,Telefon,Ausbildung,Erledigt,0.3,Ausbildung,0.956,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00742,Saale-Holzland-Kreis,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,0-9,E-Mail,Recht,Erledigt,1.0,Recht,0.775,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00743,Saale-Holzland-Kreis,Gastgewerbe,Juristische Person,0-9,Telefon,Ausbildung,Erledigt,6.5,Ausbildung,0.831,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00744,Saale-Holzland-Kreis,Sonstige Wirtschaftsbereiche,Einzelunternehmen,10-49,Telefon,Digitalisierung,Erledigt,0.4,Digitalisierung,0.803,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00745,Saale-Holzland-Kreis,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,0-9,E-Mail,Digitalisierung,Erledigt,0.6,Digitalisierung,0.949,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00746,Saale-Holzland-Kreis,Sonstige Wirtschaftsbereiche,Juristische Person,0-9,E-Mail,Gründung,Erledigt,3.1,Gründung,0.923,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00747,Saale-Holzland-Kreis,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,0-9,E-Mail,Digitalisierung,Offen,,Digitalisierung,0.816,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00748,Saale-Holzland-Kreis,Gastgewerbe,Juristische Person,0-9,Persönlich,Ausbildung,In Bearbeitung,,Ausbildung,0.887,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00749,Saale-Holzland-Kreis,Verarbeitendes Gewerbe,Einzelunternehmen,10-49,Persönlich,Außenwirtschaft,Erledigt,1.7,Außenwirtschaft,0.812,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00750,SAALE-HOLZLAND-KREIS,Handel/Kfz,Einzelunternehmen,0-9,Telefon,Recht,Erledigt,0.8,Recht,0.853,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00751,Saale-Holzland-Kreis,Verarbeitendes Gewerbe,Juristische Person,0-9,Telefon,Außenwirtschaft,Erledigt,0.9,Außenwirtschaft,0.948,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00752,Saale-Holzland-Kreis,Gastgewerbe,Einzelunternehmen,10-49,E-Mail,Gründung,Erledigt,1.1,Gründung,0.937,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00753,Saale-Holzland-Kreis,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Einzelunternehmen,0-9,Webformular,Gründung,Erledigt,2.7,Gründung,0.916,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00754,Saale-Holzland-Kreis,Verarbeitendes Gewerbe,Einzelunternehmen,0-9,Webformular,Digitalisierung,Erledigt,1.4,Digitalisierung,0.956,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00755,SAALE-HOLZLAND-KREIS,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Einzelunternehmen,0-9,Telefon,Recht,Erledigt,2.5,Recht,0.95,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00756,Saale-Holzland-Kreis,Handel/Kfz,Einzelunternehmen,10-49,E-Mail,Außenwirtschaft,Erledigt,0.2,Außenwirtschaft,0.859,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00757,Saale-Holzland-Kreis,Sonstige wirtschaftliche Dienstleistungen,Juristische Person,0-9,Persönlich,Digitalisierung,In Bearbeitung,,Digitalisierung,0.77,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00758,Saale-Holzland-Kreis,Handel/Kfz,Einzelunternehmen,10-49,Telefon,Recht,Erledigt,2.0,Recht,0.902,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00759,Saale-Holzland-Kreis,Baugewerbe,Einzelunternehmen,10-49,E-Mail,Ausbildung,Erledigt,1.1,Ausbildung,0.937,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00760,Saale-Holzland-Kreis,Verkehr und Lagerei,Juristische Person,0-9,E-Mail,Recht,Erledigt,0.9,Recht,0.945,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00761,Saale-Holzland-Kreis,Handel/Kfz,Einzelunternehmen,0-9,E-Mail,Außenwirtschaft,Erledigt,2.4,Außenwirtschaft,0.818,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00762,Saale-Holzland-Kreis,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,0-9,Telefon,Ausbildung,Erledigt,1.0,Ausbildung,0.79,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00763,Saale-Holzland-Kreis,Handel/Kfz,Juristische Person,10-49,E-Mail,Recht,Erledigt,0.5,Recht,0.803,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00764,Saale-Holzland-Kreis,Handel/Kfz,Juristische Person,0-9,E-Mail,Digitalisierung,Erledigt,0.8,Digitalisierung,0.723,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00765,Saale-Holzland-Kreis,Handel/Kfz,Einzelunternehmen,0-9,Webformular,Finanzierung,Erledigt,2.8,Finanzierung,0.698,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00766,Saale-Holzland-Kreis,Finanz- und Versicherungsdienstleistungen,Einzelunternehmen,0-9,Telefon,Ausbildung,Erledigt,1.3,Ausbildung,0.924,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00767,Saale-Holzland-Kreis,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,E-Mail,Gründung,Erledigt,1.8,Gründung,0.855,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00768,Saale-Holzland-Kreis,Baugewerbe,Juristische Person,0-9,Webformular,Gründung,Erledigt,2.6,Gründung,0.824,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00769,Saale-Holzland-Kreis,Handel/Kfz,Einzelunternehmen,0-9,E-Mail,Finanzierung,Erledigt,2.8,Finanzierung,0.968,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00770,Saale-Holzland-Kreis,Handel/Kfz,Einzelunternehmen,0-9,E-Mail,Ausbildung,Erledigt,1.2,Ausbildung,0.601,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00771,Saale-Holzland-Kreis,Energie/Wasser/Abfall,Juristische Person,0-9,Telefon,Digitalisierung,Erledigt,3.0,Digitalisierung,0.875,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00772,Saale-Holzland-Kreis,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,Telefon,Gründung,In Bearbeitung,,Gründung,0.955,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00773,Saale-Orla-Kreis,Baugewerbe,Juristische Person,10-49,E-Mail,Recht,Erledigt,2.4,Recht,0.899,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00774,Saale-Orla-Kreis,Information und Kommunikation,Einzelunternehmen,0-9,E-Mail,Recht,Erledigt,0.2,Recht,0.83,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00775,Saale-Orla-Kreis,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,Telefon,Finanzierung,Erledigt,1.2,Finanzierung,0.691,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00776,Saale-Orla-Kreis,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,E-Mail,Ausbildung,Erledigt,3.7,Ausbildung,0.869,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00777,Saale-Orla-Kreis,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Einzelunternehmen,0-9,Persönlich,Digitalisierung,In Bearbeitung,,Digitalisierung,0.981,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00778,Saale-Orla-Kreis,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,0-9,Telefon,Finanzierung,In Bearbeitung,,Finanzierung,0.855,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00779,Saale-Orla-Kreis,Handel/Kfz,Einzelunternehmen,0-9,Telefon,Recht,Erledigt,1.0,Recht,0.789,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00780,Saale-Orla-Kreis,Handel/Kfz,Einzelunternehmen,50-249,Telefon,Digitalisierung,Erledigt,1.2,Digitalisierung,0.777,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00781,Saale-Orla-Kreis,Handel/Kfz,Einzelunternehmen,0-9,Webformular,Finanzierung,Offen,,Finanzierung,0.795,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00782,Saale-Orla-Kreis,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Einzelunternehmen,0-9,Persönlich,Digitalisierung,Erledigt,0.8,Digitalisierung,0.742,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00783,Saale-Orla-Kreis,Information und Kommunikation,Juristische Person,0-9,E-Mail,Gründung,Erledigt,1.5,Gründung,0.888,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00784,Saale-Orla-Kreis,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,0-9,E-Mail,Gründung,Erledigt,2.6,Gründung,0.785,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00785,Saale-Orla-Kreis,Handel/Kfz,Einzelunternehmen,50-249,Webformular,Digitalisierung,In Bearbeitung,,Digitalisierung,0.784,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00786,Saale-Orla-Kreis,Gastgewerbe,Einzelunternehmen,0-9,E-Mail,Ausbildung,In Bearbeitung,,Ausbildung,0.891,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00787,Saale-Orla-Kreis,Sonstige Wirtschaftsbereiche,Juristische Person,0-9,Webformular,Recht,Erledigt,2.0,Recht,0.986,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00788,Saale-Orla-Kreis,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,0-9,Webformular,Gründung,Erledigt,2.3,Gründung,0.85,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00789,Saale-Orla-Kreis,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,E-Mail,Gründung,Erledigt,0.4,Gründung,0.754,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00790,Saale-Orla-Kreis,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,0-9,Webformular,Recht,Erledigt,2.6,Recht,0.707,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00791,Saale-Orla-Kreis,Gastgewerbe,Einzelunternehmen,0-9,E-Mail,Recht,Erledigt,0.9,Recht,0.805,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00792,Greiz,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,0-9,Telefon,Gründung,In Bearbeitung,,Gründung,0.835,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00793,Greiz,Handel/Kfz,Einzelunternehmen,0-9,E-Mail,Ausbildung,In Bearbeitung,,Ausbildung,0.859,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00794,Greiz,Gastgewerbe,Juristische Person,0-9,Persönlich,Ausbildung,Erledigt,1.6,Ausbildung,0.86,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00795,Greiz,Sonstige Wirtschaftsbereiche,Juristische Person,0-9,E-Mail,Ausbildung,In Bearbeitung,,Ausbildung,0.823,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00796,Greiz,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,Telefon,Ausbildung,Offen,,Ausbildung,0.808,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00797,Greiz,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Einzelunternehmen,0-9,E-Mail,Recht,Erledigt,3.3,Recht,0.577,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00798,Greiz,Sonstige wirtschaftliche Dienstleistungen,Juristische Person,0-9,Telefon,Gründung,Erledigt,0.9,Gründung,0.856,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00799,Greiz,Information und Kommunikation,Juristische Person,0-9,E-Mail,Digitalisierung,Erledigt,0.6,Digitalisierung,0.902,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00800,Greiz,Verkehr und Lagerei,Einzelunternehmen,0-9,E-Mail,Recht,Erledigt,1.2,Recht,0.964,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00801,Greiz,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,0-9,E-Mail,Gründung,Erledigt,1.7,Gründung,0.753,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00802,Greiz,Verarbeitendes Gewerbe,Einzelunternehmen,0-9,E-Mail,Ausbildung,In Bearbeitung,,Ausbildung,0.582,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00803,Greiz,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,E-Mail,Recht,Erledigt,1.2,Recht,0.82,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00804,Greiz,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Juristische Person,10-49,Telefon,Gründung,In Bearbeitung,,Gründung,0.756,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00805,Greiz,Handel/Kfz,Einzelunternehmen,0-9,E-Mail,Außenwirtschaft,Erledigt,1.9,Außenwirtschaft,0.864,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00806,Greiz,Gastgewerbe,Juristische Person,10-49,Persönlich,Finanzierung,Offen,,Finanzierung,0.909,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00807,Greiz,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,0-9,E-Mail,Digitalisierung,Offen,,Digitalisierung,0.836,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00808,Greiz,,Juristische Person,0-9,Telefon,Ausbildung,Erledigt,2.6,Ausbildung,0.808,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00809,Greiz,,Einzelunternehmen,0-9,Persönlich,Außenwirtschaft,Erledigt,0.8,Außenwirtschaft,0.936,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00810,Greiz,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,E-Mail,Recht,Offen,,Recht,0.837,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00811,Greiz,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,E-Mail,Ausbildung,Erledigt,1.7,Ausbildung,0.873,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00812,Greiz,Sonstige Wirtschaftsbereiche,Juristische Person,0-9,Persönlich,Gründung,Offen,,Gründung,0.779,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00813,Greiz,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,0-9,E-Mail,Gründung,Erledigt,2.1,Gründung,0.878,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00814,Greiz,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Einzelunternehmen,0-9,Telefon,Ausbildung,Erledigt,1.3,Ausbildung,0.96,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00815,Greiz,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,Webformular,Recht,Erledigt,2.6,Recht,0.923,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00816,Greiz,Handel/Kfz,Einzelunternehmen,0-9,E-Mail,Digitalisierung,In Bearbeitung,,Digitalisierung,0.654,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00817,Altenburger Land,Verarbeitendes Gewerbe,Einzelunternehmen,0-9,Webformular,Ausbildung,Erledigt,0.6,Ausbildung,0.806,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00818,Altenburger Land,Sonstige wirtschaftliche Dienstleistungen,Juristische Person,0-9,E-Mail,Recht,Erledigt,0.5,Recht,0.844,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00819,Altenburger Land,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,0-9,Webformular,Ausbildung,Erledigt,3.1,Ausbildung,0.962,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00820,Altenburger Land,Sonstige Wirtschaftsbereiche,Einzelunternehmen,10-49,Telefon,Gründung,Erledigt,0.6,Gründung,0.944,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00821,Altenburger Land,Sonstige Wirtschaftsbereiche,Personengesellschaft,10-49,E-Mail,Recht,Erledigt,1.2,Recht,0.844,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00822,Altenburger Land,Handel/Kfz,Juristische Person,0-9,E-Mail,Außenwirtschaft,Erledigt,0.5,Außenwirtschaft,0.94,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00823,Altenburger Land,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,Telefon,Finanzierung,Erledigt,4.2,Finanzierung,0.888,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00824,Altenburger Land,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Einzelunternehmen,0-9,E-Mail,Gründung,Erledigt,1.3,Gründung,0.716,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00825,Altenburger Land,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,0-9,E-Mail,Gründung,Erledigt,1.6,Gründung,0.804,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00826,Altenburger Land,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Einzelunternehmen,0-9,E-Mail,Digitalisierung,Erledigt,0.2,Digitalisierung,0.731,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00827,Altenburger Land,,Einzelunternehmen,0-9,Persönlich,Digitalisierung,Erledigt,0.6,Digitalisierung,0.717,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00828,Altenburger Land,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,0-9,E-Mail,Recht,Erledigt,1.0,Recht,0.826,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00829,Altenburger Land,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,0-9,Telefon,Digitalisierung,Erledigt,1.8,Digitalisierung,0.833,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00830,Altenburger Land,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,0-9,Telefon,Digitalisierung,Erledigt,1.1,Digitalisierung,0.913,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00831,Altenburger Land,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,Webformular,Gründung,Erledigt,0.9,Gründung,0.928,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00832,Altenburger Land,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,Webformular,Recht,Erledigt,0.5,Recht,0.763,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00833,Altenburger Land,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Einzelunternehmen,0-9,E-Mail,Digitalisierung,Erledigt,0.9,Digitalisierung,0.85,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00834,Altenburger Land,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,Telefon,Digitalisierung,Erledigt,4.9,Digitalisierung,0.906,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00835,Altenburger Land,Finanz- und Versicherungsdienstleistungen,Einzelunternehmen,10-49,Telefon,Ausbildung,Erledigt,0.6,Ausbildung,0.902,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00836,ALTENBURGER LAND,Energie/Wasser/Abfall,Einzelunternehmen,0-9,E-Mail,Digitalisierung,Erledigt,0.5,Digitalisierung,0.947,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00837,Altenburger Land,Verarbeitendes Gewerbe,Einzelunternehmen,0-9,E-Mail,Digitalisierung,Erledigt,2.5,Digitalisierung,0.885,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00838,Altenburger Land,Energie/Wasser/Abfall,Einzelunternehmen,0-9,Telefon,Digitalisierung,Erledigt,1.0,Digitalisierung,0.935,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00839,Altenburger Land,Gastgewerbe,Einzelunternehmen,10-49,Webformular,Ausbildung,Erledigt,1.3,Ausbildung,0.989,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00840,Altenburger Land,,Einzelunternehmen,0-9,Telefon,Gründung,Erledigt,1.2,Gründung,0.875,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00841,Altenburger Land,Sonstige wirtschaftliche Dienstleistungen,Einzelunternehmen,0-9,Webformular,Digitalisierung,Erledigt,0.5,Digitalisierung,0.86,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00842,Altenburger Land,Sonstige Wirtschaftsbereiche,Einzelunternehmen,0-9,E-Mail,Gründung,In Bearbeitung,,Gründung,0.977,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00843,Altenburger Land,Verkehr und Lagerei,Einzelunternehmen,0-9,E-Mail,Ausbildung,Erledigt,1.8,Ausbildung,0.861,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00495,Schmalkalden-Meiningen,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Einzelunternehmen,0-9,Webformular,Gründung,Erledigt,2.0,Gründung,0.886,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00728,Saalfeld-Rudolstadt,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Einzelunternehmen,0-9,Telefon,Gründung,Erledigt,1.7,Gründung,0.932,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00744,Saale-Holzland-Kreis,Sonstige Wirtschaftsbereiche,Einzelunternehmen,10-49,Telefon,Digitalisierung,Erledigt,0.4,Digitalisierung,0.803,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00777,Saale-Orla-Kreis,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Einzelunternehmen,0-9,Persönlich,Digitalisierung,In Bearbeitung,,Digitalisierung,0.981,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00404,Unstrut-Hainich-Kreis,Freiberufliche/wissenschaftliche/technische Dienstleistungen,Einzelunternehmen,0-9,Persönlich,Digitalisierung,Erledigt,1.4,Digitalisierung,0.925,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00763,Saale-Holzland-Kreis,Handel/Kfz,Juristische Person,10-49,E-Mail,Recht,Erledigt,0.5,Recht,0.803,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00527,Gotha,Handel/Kfz,Einzelunternehmen,0-9,E-Mail,Finanzierung,Offen,,Finanzierung,0.945,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00261,Stadt Weimar,Handel/Kfz,Einzelunternehmen,0-9,Telefon,Recht,Erledigt,0.9,Recht,0.99,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00530,Gotha,Handel/Kfz,Einzelunternehmen,0-9,E-Mail,Außenwirtschaft,Erledigt,1.7,Außenwirtschaft,0.625,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen
+CRM-00512,Schmalkalden-Meiningen,Sonstige Wirtschaftsbereiche,Einzelunternehmen,10-49,E-Mail,Ausbildung,Erledigt,0.9,Ausbildung,0.866,SYNTHETISCH,TLS Jul 2026 Kreis/Rechtsform/Branche + TLS 2024 Größenklassen

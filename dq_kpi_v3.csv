@@ -1,0 +1,11 @@
+﻿Kennzahl,Anzahl,Anteil_Prozent,Bezugsbasis
+Rohdatenzeilen,853,100,Rohdatenzeilen
+Eindeutige CRM-IDs (bereinigter Zielbestand),843,98.83,Rohdatenzeilen
+Duplikat-Zusatzzeilen,10,1.17,Rohdatenzeilen
+Erkannte Qualitätsereignisse,89,,Ereignisse; kein Anteil an Datensätzen
+Automatisch standardisierte Ereignisse,42,47.19,Erkannte Qualitätsereignisse
+Manuell zu prüfende Ereignisse,47,52.81,Erkannte Qualitätsereignisse
+Fehlertyp: DUPLIKAT,10,11.24,Erkannte Qualitätsereignisse
+Fehlertyp: FEHLENDER_WERT,25,28.09,Erkannte Qualitätsereignisse
+Fehlertyp: STANDARDISIERUNG,42,47.19,Erkannte Qualitätsereignisse
+Fehlertyp: UNGUELTIGER_WERT,12,13.48,Erkannte Qualitätsereignisse
